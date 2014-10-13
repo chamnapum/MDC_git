@@ -1,0 +1,225 @@
+#nav_wrapper {
+	clear: left;
+}
+
+span#menu_end {
+	display:block;
+	float:left;
+	height:46px;
+	width:5px;
+}
+
+span#menu_start {
+	display:block;
+	float:left;
+	height:46px;
+	width:52px;
+}
+ul#topnav {
+	margin: 0; padding: 0;
+	float:left;
+	list-style: none;
+	font-size: 1em;
+	background: url("../assets/images/back_nav.png") repeat-x;
+}
+ul#topnav li {
+	float: left;
+	margin: 0; padding: 0;
+	position: relative;
+	background: url(../assets/images/li_border.png) no-repeat right top;	
+}
+ul#topnav li#last-li {
+	background: none;
+}
+ul#topnav li#last-li a span.single_wrapper {
+	float:left;
+	margin:6px 6px 6px 10px;
+	padding:0 10px;
+}
+
+ul#topnav li.liSub a, ul#topnav li a {
+	color: white;
+	float: left;
+	height: 46px;
+	line-height: 34px;
+	padding: 0;
+	text-decoration: none;
+	text-shadow: 0 0 2px black;
+	text-transform: uppercase;
+	z-index: 200;
+}
+
+span#menu_start a {
+	background: url(../assets/images/home_nav.png) no-repeat left top;
+	width: 52px; height: 46px;
+	text-indent: -9999px;
+	padding:0; margin:0;
+}
+span#menu_start a:hover  { background-position: left -46px; }
+span#menu_start a:active { background-position: left -92px; }
+
+span#menu_start a {	display:block; line-height: 46px; }
+
+ul#topnav li .sub {
+	position: absolute;	
+	top: 46px; left: 10px;
+	background: #FFFFFF;
+	background-color: #f8f8f8\9; /* le  \9  est un hack pour cibler IE8, IE7 et IE6 */ 
+	border-bottom: 1px solid #cbcbcb\9;
+	border-left: 1px solid #cbcbcb\9;
+	border-right: 1px solid #cbcbcb\9;
+	padding: 10px 10px 10px;
+	float: left;
+	
+	border-bottom-right-radius:		    10px;
+	-moz-border-radius-bottomright:     10px;
+	-khtml-border-radius-bottomright:   10px;
+	-webkit-border-bottom-right-radius: 10px;
+	
+	border-bottom-left-radius:		    10px;
+	-moz-border-radius-bottomleft:      10px;
+	-khtml-border-radius-bottomleft: 	10px;
+	-webkit-border-bottom-left-radius:  10px;
+	
+	box-shadow:0px 0px 5px #5a5a5a;
+	-moz-box-shadow:0px 0px 5px #5a5a5a;
+	-webkit-box-shadow:0px 0px 5px #5a5a5a;
+	display: none;
+	z-index: -10;
+}
+ul#topnav li .row {clear: both; float: left; width: 100%; margin-bottom: 10px;}
+ul#topnav li .sub ul{
+	list-style: none;
+	margin: 0; padding: 0;
+	width: 150px;
+	float: left;
+}
+ul#topnav .sub ul li {
+	width: 100%;
+	color: #fff;
+	background: none;
+}
+ul#topnav .sub ul li h2 {
+	padding: 0;  margin: 0;
+	font-size: 1.3em;
+	font-weight: normal;
+}
+ul#topnav .sub ul li h2 a, ul#topnav .sub ul li h2 a:hover {
+	padding: 5px 0;
+	background-image: none;
+	color: #c10707;
+}
+ul#topnav .sub ul li h2 a:hover {
+	background-image: none;
+	text-decoration: underline;
+}
+ul#topnav .sub ul li a {
+	float: none; 
+	text-indent: 0;
+	height: auto;
+	background: url(../assets/images/navlist_arrow.png) no-repeat 0px 10px;
+	padding: 0 0 0 18px;
+	margin: 0 10px;
+	display: block;
+	text-decoration: none;
+	color: #757575;
+	font-size:1.1em;
+	text-shadow: none;
+	border-bottom: 1px solid #e6e6d8;
+	text-transform: none;
+	line-height:27px;
+}
+ul#topnav .sub ul li a:hover {
+	color: #c50a0a;
+	background: url(../assets/images/navlist_arrow_hover.png) no-repeat 0px 10px;
+	text-decoration: underline;
+}
+
+span.dd_action {
+	height:6px;
+	padding:0 0 0 10px;
+	width:9px;
+}
+
+span.single_wrapper {
+	float:left;
+	margin:6px 10px;
+	padding:0 15px;
+}
+
+span.single_wrapper:hover, li.current a span.single_wrapper {
+	background: white;
+	color: black;
+	
+	/* -- CSS3 stuff -- */
+	
+	text-shadow: none;
+	
+	filter: progid:DXImageTransform.Microsoft.gradient(gradientType=0, startColorstr=#FFFFFFFF, endColorstr=#FFe5e5e5);
+	background-image: -moz-linear-gradient(	top, #FFFFFF, #e5e5e5);
+	background-image: -webkit-gradient( linear,	left top, left bottom, from(#FFFFFF), to(#e5e5e5));
+	
+	border-radius: 	       7px; /* Propriété CSS3 générale et pour Opera */
+	-moz-border-radius:    7px; /* Propriété CSS3 pour Firefox */
+	-khtml-border-radius:  7px; /* Propriété CSS3 pour navigateurs KHTML */
+	-webkit-border-radius: 7px; /* Propriété CSS3 pour navigateurs Webkit */
+	
+	box-shadow:         0px 0px 2px #343333; /* Propriété CSS3 */
+	-webkit-box-shadow: 0px 0px 2px #343333; /* Propriété CSS3 pour Firefox */
+	-moz-box-shadow:    0px 0px 2px #343333; /* Propriété CSS3 pour navigateurs Webkit */
+}
+
+span.single_wrapper:active {
+	background: white;	
+	color: black;
+	
+	/* -- CSS3 stuff -- */
+	
+	text-shadow: none;
+	
+	filter: progid:DXImageTransform.Microsoft.gradient(gradientType=0, startColorstr=#FFe5e5e5, endColorstr=#FFFFFFFF);
+	background-image: -moz-linear-gradient(	top, #e5e5e5, #FFFFFF);
+	background-image: -webkit-gradient( linear, left top, left bottom, from(#e5e5e5), to(#FFFFFF));
+	
+	border-radius:         7px;
+	-moz-border-radius:    7px;
+	-khtml-border-radius:  7px;
+	-webkit-border-radius: 7px;
+	
+	box-shadow:         0px 0px 2px #343333;
+	-webkit-box-shadow: 0px 0px 2px #343333;
+	-moz-box-shadow:    0px 0px 2px #343333;
+}
+
+span.dd_wrapper {
+	float:left;
+	margin:6px 10px 0;
+	padding:0 11px 6px 18px;
+}
+
+li.liSub a:hover span.dd_wrapper, li.liSub:hover a span.dd_wrapper {
+	z-index:      100;
+	background:   white;
+	color: 		  black;
+	border-top:   1px solid #e5e5e5;	
+	border-right: 1px solid #989898;
+	padding:	  0 10px 6px 18px;	
+	
+	/* -- CSS3 stuff -- */
+	
+	text-shadow: none;
+	
+	filter: progid:DXImageTransform.Microsoft.gradient(gradientType=0, startColorstr=#dfdfdf, endColorstr=#f8f8f8); /* Pour IE */
+	background-image: -moz-linear-gradient(	top, #e5e5e5, #FFFFFF); /* Pour Firefox */
+	background-image: -webkit-gradient( linear,	left top, left bottom, from(#e5e5e5), to(#FFFFFF)); /* Pour Webkit */
+
+	border-top-right-radius:		 7px;
+	-moz-border-radius-topleft: 	 7px;
+	-webkit-border-top-left-radius:  7px;
+	-khtml-border-radius-topleft: 	 7px;
+	
+	border-top-left-radius:		     7px;
+	-moz-border-radius-topright: 	 7px;
+	-webkit-border-top-right-radius: 7px;
+	-khtml-border-radius-topright: 	 7px;
+}

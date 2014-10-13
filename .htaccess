@@ -1,0 +1,175 @@
+ErrorDocument 404 http://magasinducoin.fr/404.html
+ErrorDocument 403 http://magasinducoin.fr/403.html
+Options -Indexes
+# For security reasons, Option followsymlinks cannot be overridden.
+#Options +FollowSymLinks  
+Options +SymLinksIfOwnerMatch
+RewriteEngine On  
+
+#RewriteCond %{HTTPS} !on
+#RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}
+  
+RewriteCond %{SCRIPT_FILENAME} !-d  
+RewriteCond %{SCRIPT_FILENAME} !-f  
+
+#RewriteRule region/([0-9]+)/([a-zA-Z-_-]+) region.php?region=$1&name=$2
+
+RewriteRule ^404\.html$ 404.php? [L]
+RewriteRule ^403\.html$ 403.php? [L]
+RewriteRule ^accueil\.html$ index.php? [L]
+RewriteRule ^inscription\.html$ inscriptionu_all.php? [L]
+RewriteRule ^inscription-([0-9]+)\.html$ inscriptionu_all.php?level=$1
+RewriteRule ^inscription-([0-9]+)-([0-9]+)\.html$ inscriptionu_all.php?level=$1&invite=$2
+RewriteRule ^authetification\.html$ authetification.php? [L]
+RewriteRule ^([0-9]+)-([a-z0-9A-Z_-]+)\.html$ region.php?region=$1&name=$2
+
+RewriteRule ^magasin\.html$ liste_magasins.php
+RewriteRule ^magasins-([^/]+)-([0-9]+)\.html$ liste_magasins.php?nom_region=$1&region=$2
+RewriteRule ^sub_magasins-([^/]+)-([0-9]+)-([0-9]+)\.html$ liste_magasins.php?nom_region=$1&region=$2&categorie=$3
+RewriteRule ^sub_sub_magasins-([^/]+)-([0-9]+)-([0-9]+)-([0-9]+)\.html$ liste_magasins.php?nom_region=$1&region=$2&categorie=$3&sous_categorie=$4
+
+RewriteRule ^produit\.html$ rechercher.php
+RewriteRule ^produits-([^/]+)-([0-9]+)\.html$ rechercher.php?nom_region=$1&region=$2
+RewriteRule ^sub_produits-([^/]+)-([0-9]+)-([0-9]+)\.html$ rechercher.php?nom_region=$1&region=$2&categorie=$3 
+RewriteRule ^sub_sub_produits-([^/]+)-([0-9]+)-([0-9]+)-([0-9]+)\.html$ rechercher.php?nom_region=$1&region=$2&categorie=$3&sous_categorie=$4
+RewriteRule ^sub_sub_sub_produits-([^/]+)-([0-9]+)-([0-9]+)-([0-9]+)-([0-9]+)\.html$ rechercher.php?nom_region=$1&region=$2&categorie=$3&sous_categorie=$4&sous_categorie2=$5
+
+RewriteRule ^coupon\.html$ rechercher_cpn.php
+RewriteRule ^coupons-([^/]+)-([0-9]+)\.html$ rechercher_cpn.php?nom_region=$1&region=$2
+RewriteRule ^sub_coupons-([^/]+)-([0-9]+)-([0-9]+)\.html$ rechercher_cpn.php?nom_region=$1&region=$2&categorie=$3 
+RewriteRule ^sub_sub_coupons-([^/]+)-([0-9]+)-([0-9]+)-([0-9]+)\.html$ rechercher_cpn.php?nom_region=$1&region=$2&categorie=$3&sous_categorie=$4
+RewriteRule ^sub_sub_sub_coupons-([^/]+)-([0-9]+)-([0-9]+)-([0-9]+)-([0-9]+)\.html$ rechercher_cpn.php?nom_region=$1&region=$2&categorie=$3&sous_categorie=$4&sous_categorie2=$5
+
+
+RewriteRule ^evenements-([^/]+)-([0-9]+)\.html$ pcal.php?nom_region=$1&region=$2
+RewriteRule ^sub_evenements-([^/]+)-([0-9]+)-([a-z0-9A-Z_-]+)\.html$ pcal.php?nom_region=$1&region=$2&id_cat=$3
+RewriteRule ^evenement-([^/]+)-([0-9]+)-([^/]+)-([0-9]+)-([0-9]+)-([0-9]+)-([^/]+)\.html$ pcal.php?nom_region=$1&region=$2&id_cat=$3&d=$4&m=$5&y=$6&view=$7
+
+RewriteRule ^blog/accueil\.html$ blog/index.php [L,NC,QSA]
+RewriteRule ^blog/article-([0-9]+)-([^/]+).html$ blog/article.php?id=$1&titre=$2 [L,NC,QSA]
+
+RewriteRule ^md-([0-9]+)-([^/]+)-([0-9-]+)-([^/]+)\.html$ detail_magasin.php?region=$1&nom_region=$2&mag_id=$3&titre=$4 [L,NC,QSA]
+
+RewriteRule ^pd-([0-9]+)-([^/]+)-([0-9]+)-([^/]+)-([0-9]+)-([^/]+)-([0-9]+)\.html$ detail_produit.php?region=$1&nom_region=$2&mag_id=$3&titre=$4&id=$5&titre_pro=$6&cat_id=$7
+
+RewriteRule ^imprimer\.html$ imprimer.php? [L]
+RewriteRule ^map\.html$ map_view.php? [L]
+RewriteRule ^assets/popup_2/([0-9]+)\.html$ assets/popup_2/pub.php?id=$1
+
+RewriteRule ^qui-sommes-nous\.html$ qui-somme-nous.php? [L,NC,QSA]
+RewriteRule ^bref\.html$ bref.php? [L,NC,QSA]
+RewriteRule ^bon_reduction\.html$ bon_reduction.php? [L,NC,QSA]
+RewriteRule ^event\.html$ evenements.php? [L,NC,QSA]
+RewriteRule ^promotions-mag\.html$ promotions-mag.php? [L,NC,QSA]
+RewriteRule ^comment-ca-marche\.html$ comment-ca-marche.php? [L,NC,QSA]
+RewriteRule ^question-reponse-prf\.html$ question-reponse-prf.php? [L,NC,QSA]
+RewriteRule ^contact\.html$ contact.php? [L,NC,QSA]
+#RewriteRule ^contact-form\.html$ contact-form.php? [L,NC,QSA]
+RewriteRule ^contact-form-([0-9]+)\.html$ contact-form.php?t=$1
+
+RewriteRule ^engagement\.html$ engagement.php? [L,NC,QSA]
+RewriteRule ^choix_inscription\.html$ choix_inscription.php? [L,NC,QSA]
+RewriteRule ^conditions_utilisation\.html$ conditions_utilisation.php? [L,NC,QSA]
+RewriteRule ^Recrutement\.html$ Recrutement.php? [L,NC,QSA]
+RewriteRule ^protectiondn\.html$ protectiondn.php? [L,NC,QSA]
+RewriteRule ^question-reponse-prf\.html$ question-reponse-prf.php? [L,NC,QSA]
+
+
+# Space Membre
+RewriteRule ^membre\.html$ membre.php? [L,NC,QSA]
+RewriteRule ^mon_profil\.html$ mon-profil.php? [L,NC,QSA]
+RewriteRule ^mes_magazins\.html$ mes-magazins.php? [L,NC,QSA]
+RewriteRule ^mes_coupons\.html$ mes-coupons.php? [L,NC,QSA]
+RewriteRule ^mes_produits\.html$ mes-produits.php? [L,NC,QSA]
+RewriteRule ^mes_evenements\.html$ mes-evenements.php? [L,NC,QSA]
+RewriteRule ^mes_favoris\.html$ mes-favoris.php? [L,NC,QSA]
+RewriteRule ^mes_sabonner\.html$ mes-sabonner.php? [L,NC,QSA]
+RewriteRule ^mon_abonnement\.html$ mon-abonnement.php? [L,NC,QSA]
+RewriteRule ^paiements\.html$ mes-payment.php? [L,NC,QSA]
+RewriteRule ^photographes\.html$ photographes.php? [L,NC,QSA]
+RewriteRule ^proposer_cat\.html$ proposer-cat.php? [L,NC,QSA]
+RewriteRule ^Parrainage\.html$ Parrainage.php? [L,NC,QSA]
+RewriteRule ^publicite\.html$ publicite.php? [L,NC,QSA]
+
+# Magasin
+RewriteRule ^magazin_add\.html$ magasinForm.php? [L]
+RewriteRule ^magazin_modify-([0-9]+)\.html$ magasinForm.php?id_magazin=$1
+RewriteRule ^magazin_dupliquer-([0-9]+)-([0-9]+)\.html$ magasinForm.php?id_magazin=$1&dupliquer=$2
+
+RewriteRule ^magazin_pay-([0-9]+)\.html$ payer_par_credit4.php?ids=$1
+RewriteRule ^magazin_pay_avant-([0-9]+)-([0-9]+)-([0-9]+)\.html$ payer_par_credit4.php?ids=$1&miseenavant=$2&n=$3
+RewriteRule ^magazin_pay_teteliste-([0-9]+)-([0-9]+)-([0-9]+)\.html$ payer_par_credit4.php?ids=$1&enteteliste=$2&n=$3
+RewriteRule ^magazin_pay_activer-([0-9]+)-([0-9]+)\.html$ payer_par_credit4.php?ids=$1&activer=$2
+RewriteRule ^magazin_pays-([0-9]+)\.html$ payer_par4.php?ids=$1
+
+# Conpon
+RewriteRule ^coupon_add\.html$ formCoupon.php? [L]
+RewriteRule ^coupon_modify-([0-9]+)\.html$ formCoupon.php?id_coupon=$1
+RewriteRule ^coupon_dupliquer-([0-9]+)-([0-9]+)\.html$ formCoupon.php?id_coupon=$1&dupliquer=$2
+
+RewriteRule ^coupon_pay-([0-9]+)\.html$ payer_par_credit2.php?ids=$1
+RewriteRule ^coupon_pay_avant-([0-9]+)-([0-9]+)-([0-9]+)\.html$ payer_par_credit2.php?ids=$1&miseenavant=$2&n=$3
+RewriteRule ^coupon_pay_teteliste-([0-9]+)-([0-9]+)-([0-9]+)\.html$ payer_par_credit2.php?ids=$1&enteteliste=$2&n=$3
+RewriteRule ^coupon_pay_activer-([0-9]+)-([0-9]+)\.html$ payer_par_credit2.php?ids=$1&activer=$2
+RewriteRule ^coupon_pays-([0-9]+)\.html$ payer_par2.php?ids=$1
+
+# Event
+RewriteRule ^evenement_add\.html$ formevenement.php? [L]
+RewriteRule ^evenement_modify-([0-9]+)\.html$ formevenement.php?event_id=$1
+RewriteRule ^evenement_dupliquer-([0-9]+)-([0-9]+)\.html$ formevenement.php?event_id=$1&dupliquer=$2
+
+RewriteRule ^evenement_pay-([0-9]+)\.html$ payer_par_credit3.php?ids=$1
+RewriteRule ^evenement_pay_avant-([0-9]+)-([0-9]+)-([0-9]+)\.html$ payer_par_credit3.php?ids=$1&miseenavant=$2&n=$3
+RewriteRule ^evenement_pay_teteliste-([0-9]+)-([0-9]+)-([0-9]+)\.html$ payer_par_credit3.php?ids=$1&enteteliste=$2&n=$3
+RewriteRule ^evenement_pay_activer-([0-9]+)-([0-9]+)\.html$ payer_par_credit3.php?ids=$1&activer=$2
+RewriteRule ^evenement_pays-([0-9]+)\.html$ payer_par3.php?ids=$1
+
+# Product
+RewriteRule ^produit_add\.html$ produitForm.php? [L]
+RewriteRule ^produit_modify-([0-9]+)\.html$ produitForm.php?id=$1
+RewriteRule ^produit_dupliquer-([0-9]+)-([0-9]+)\.html$ produitForm.php?id=$1&dupliquer=$2
+
+RewriteRule ^produit_pay-([^/]+)\.html$ payer_par_credit.php?ids=$1
+
+# Credit
+RewriteRule ^payer_abonement\.html$ payer_abonement.php? [L]
+
+
+#RewriteCond %{HTTP_HOST} !^www.
+#RewriteRule ^(.*) http://www\.%{HTTP_HOST}/$1 [QSA,L,R=301]
+
+#<FilesMatch "\.(jpg|jpeg|png|gif|swf|ico|css|js)$">
+#Header set Cache-Control "max-age=29030400, public"
+#</FilesMatch>
+
+#<IfModule mod_expires.c>
+#	ExpiresActive On
+#	ExpiresByType image/gif "access plus 1 month"
+#	ExpiresByType image/jpeg "access plus 1 month"
+#	ExpiresByType image/png "access plus 1 month"
+#	ExpiresByType text/css "access plus 1 week"
+#	ExpiresByType text/javascript "access plus 1 week"
+#	ExpiresByType application/javascript "access plus 1 week"
+#	ExpiresByType application/x-javascript "access plus 1 week"
+#	ExpiresByType image/x-icon "access plus 1 year"
+#</IfModule>
+
+#FileETag INode MTime Size
+#<IfModule mod_deflate.c>
+#	AddOutputFilterByType DEFLATE text/html
+#	AddOutputFilterByType DEFLATE text/css
+#	AddOutputFilterByType DEFLATE text/javascript
+#	AddOutputFilterByType DEFLATE application/javascript
+#	AddOutputFilterByType DEFLATE application/x-javascript
+#</IfModule>
+
+
+
+
+
+
+
+
+
+
+

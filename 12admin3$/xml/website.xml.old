@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE language SYSTEM "xmldoctype.dtd">
+<language><xmldata id="inputData"><translation lang="fr">Données de la balise</translation><translation lang="en">Tag's datas</translation><translation lang="pr">Datas de l'ouverture Echec du fichierTag de
+</translation><translation lang="es">Echec de l'ouverture du fichierTag de datas
+</translation><translation lang="al">Tag-Daten
+</translation></xmldata><xmldata id="frLang"><translation lang="fr">Français</translation><translation lang="en">French</translation><translation lang="pr">Francês
+</translation><translation lang="es">Francés
+</translation><translation lang="al">Französisch
+</translation></xmldata><xmldata id="enLang"><translation lang="fr">Anglais</translation><translation lang="en">English</translation><translation lang="pr">Inglês
+</translation><translation lang="es">Inglés
+</translation><translation lang="al">Englisch
+</translation></xmldata><xmldata id="submitModify"><translation lang="fr">Modifier un élément</translation><translation lang="en">Modify tag</translation><translation lang="pr">Modificar tag
+</translation><translation lang="es">Modificar la etiqueta
+</translation><translation lang="al">Ändern Tag
+</translation></xmldata><xmldata id="submitCreate"><translation lang="fr">Créer un nouvel élément</translation><translation lang="en">Create new tag</translation><translation lang="pr">Criar nova tag
+</translation><translation lang="es">Crear nueva etiqueta
+</translation><translation lang="al">Erstellen neuer tag
+</translation></xmldata><xmldata id="inputLang"><translation lang="fr">Choix de la langue</translation><translation lang="en">Choose language</translation><translation lang="pr">Escolha o idioma
+</translation><translation lang="es">Seleccione el idioma
+</translation><translation lang="al">Wählen Sie eine Sprache
+</translation></xmldata><xmldata id="modifyXmlDone"><translation lang="fr">Les modifications ont été effectuées !</translation><translation lang="en">Modifications saved successfully !</translation><translation lang="pr">Modificações salvo com sucesso!
+</translation><translation lang="es">Modificaciones guardado con éxito!
+</translation><translation lang="al">Änderungen wurden erfolgreich gespeichert!
+</translation></xmldata><xmldata id="modifyXmlError"><translation lang="fr">Erreur detectée ! Aucune sauvegarde faite.</translation><translation lang="en">Error detected ! No save.</translation><translation lang="pr">Erro detectado! Não economize.
+</translation><translation lang="es">Ha detectado un error! No guardar.
+</translation><translation lang="al">Fehler erkannt! Nein zu speichern.
+</translation></xmldata><xmldata id="createXmlDone"><translation lang="fr">Elément créer !</translation><translation lang="en">New tag created !</translation><translation lang="pr">Nova marca criada!
+</translation><translation lang="es">Nueva etiqueta creado!
+</translation><translation lang="al">New-Tag erstellt!
+</translation></xmldata><xmldata id="createXmlError"><translation lang="fr">Erreur ! L'élément existe sûrement.</translation><translation lang="en">Error ! Existant tag.</translation><translation lang="pr">Erro! Tag existant.
+</translation><translation lang="es">¡Error! Etiqueta inexistente.
+</translation><translation lang="al">Error! Existant-Tag.
+</translation></xmldata><xmldata id="newContent"><translation lang="fr">Nouvelle valeur</translation><translation lang="en">New data</translation><translation lang="pr">Novos dados
+</translation><translation lang="es">Los nuevos datos
+</translation><translation lang="al">Neue Daten
+</translation></xmldata><xmldata id="submitTraduce"><translation lang="fr">Effectuer la traduction</translation><translation lang="en">Make translation</translation><translation lang="pr">Faça tradução
+</translation><translation lang="es">Que la traducción
+</translation><translation lang="al">Machen Übersetzung
+</translation></xmldata><xmldata id="foreignLang"><translation lang="fr">Langue de traduction</translation><translation lang="en">Language to traduce</translation><translation lang="pr">Idioma para difamar
+</translation><translation lang="es">Idioma que difaman
+</translation><translation lang="al">Sprache zu verleumden
+</translation></xmldata><xmldata id="submitChooseLang"><translation lang="fr">Choisir cette langue</translation><translation lang="en">Choose this language</translation><translation lang="pr">Escolha esta linguagem
+</translation><translation lang="es">Elija esta lengua
+</translation><translation lang="al">Wählen Sie diese Sprache
+</translation></xmldata><xmldata id="modificationDone"><translation lang="fr">Les modifications sont sauvées !</translation><translation lang="en">Modification saved!</translation><translation lang="pr">Modificação salvo!
+</translation><translation lang="es">Modificación salvado!
+</translation><translation lang="al">Änderung gespeichert!
+</translation></xmldata><xmldata id="modificationError"><translation lang="fr">Une erreur s'est produite ! Prévenez le webmaster</translation><translation lang="en">Error occured ! Contact the webmaster</translation><translation lang="pr">Ocorreu um erro! Entre em contato com o webmaster
+</translation><translation lang="es">Ha ocurrido un error! Póngase en contacto con el webmaster
+</translation><translation lang="al">Fehler aufgetreten! Kontaktieren Sie den Webmaster
+</translation></xmldata><xmldata id="element"><translation lang="fr">Elément</translation><translation lang="en">Element</translation><translation lang="pr">Elemento
+</translation><translation lang="es">Elemento
+</translation><translation lang="al">Element
+</translation></xmldata><xmldata id="deleteElement"><translation lang="fr">Supprimer cet élément</translation><translation lang="en">Delete this element</translation><translation lang="pr">Excluir este elemento
+</translation><translation lang="es">Eliminar este elemento
+</translation><translation lang="al">Löschen Sie dieses Element
+</translation></xmldata><xmldata id="confirmDelete"><translation lang="fr">Voulez-vous supprimer l'élément</translation><translation lang="en">Do you want to delete this element</translation><translation lang="pr">Você quer apagar este elemento
+</translation><translation lang="es">¿Quieres eliminar este elemento
+</translation><translation lang="al">Wollen Sie dieses Element löschen
+</translation></xmldata><xmldata id="webPageName"><translation lang="fr">Démonstration de XMLEngine</translation><translation lang="en">XMLEngin demonstration</translation><translation lang="pr">Demonstração XMLEngin
+</translation><translation lang="es">XMLEngin demostración
+</translation><translation lang="al">XMLEngin Demonstration
+</translation></xmldata><xmldata id="languageToCheck"><translation lang="fr">Langue(s) à vérifier</translation><translation lang="en">Languages to check</translation><translation lang="pr">Idiomas para verificar
+</translation><translation lang="es">Idiomas para comprobar
+</translation><translation lang="al">Sprachen zu überprüfen
+</translation></xmldata><xmldata id="checkIt"><translation lang="fr">Vérifier</translation><translation lang="en">Check</translation><translation lang="pr">Verificar
+</translation><translation lang="es">Comprobar
+</translation><translation lang="al">Überprüfen
+</translation></xmldata><xmldata id="checkLanguageDone"><translation lang="fr">La langue est désormais accessible pour les utilisateurs !</translation><translation lang="en">This language is available</translation><translation lang="pr">Esta linguagem está disponível
+</translation><translation lang="es">Este lenguaje está disponible
+</translation><translation lang="al">Diese Sprache ist verfügbar
+</translation></xmldata><xmldata id="fileCheckError"><translation lang="fr">Le fichier suivant comprend des erreurs</translation><translation lang="en">This file have somes error</translation><translation lang="pr">Este arquivo tem erro somes
+</translation><translation lang="es">Este archivo tiene error de cromosomas
+</translation><translation lang="al">Diese Datei haben Somes Fehler
+</translation></xmldata><xmldata id="espace_membre"><translation lang="en">Member space</translation><translation lang="fr">Espace membre</translation><translation lang="pr">Espaço membro
+</translation><translation lang="es">Miembro del espacio
+</translation><translation lang="al">Mitglieder-Login
+</translation></xmldata><xmldata id="inputID"><translation lang="fr">ID de tag</translation><translation lang="en">Tags ID</translation><translation lang="pr">Etiquetas de identificação
+</translation><translation lang="es">Etiquetas de identificación
+</translation><translation lang="al">Stichworte ID
+</translation></xmldata><xmldata id="choix_region"><translation lang="en">Choose your region</translation><translation lang="fr">Choisissez votre région</translation><translation lang="pr">Escolha a sua região
+</translation><translation lang="es">Seleccione su región
+</translation><translation lang="al">Wählen Sie Ihre Region
+</translation></xmldata><xmldata id="deconnexion"><translation lang="en">Logout</translation><translation lang="fr">Déconnexion</translation><translation lang="pr">Sair
+</translation><translation lang="es">Cerrar sesión
+</translation><translation lang="al">Logout
+</translation></xmldata><xmldata id="inscription"><translation lang="en">Register</translation><translation lang="fr">S\'inscrire</translation><translation lang="pr">Registrar
+</translation><translation lang="es">Registrar
+</translation><translation lang="al">Registrieren
+</translation></xmldata><xmldata id="connexion"><translation lang="en">Log In</translation><translation lang="fr">Se connecter</translation><translation lang="pr">Log-In
+</translation><translation lang="es">Acceder
+</translation><translation lang="al">Anmelden
+</translation></xmldata><xmldata id="proche"><translation lang="en">Near you</translation><translation lang="fr">A coté de chez vous</translation><translation lang="pr">Perto de você
+</translation><translation lang="es">Cerca de usted
+</translation><translation lang="al">In Ihrer Nähe
+</translation></xmldata><xmldata id="mag"><translation lang="en">le mag</translation><translation lang="fr">Magasine</translation><translation lang="pr">le mag
+</translation><translation lang="es">le mag
+</translation><translation lang="al">le mag
+</translation></xmldata><xmldata id="prix"><translation lang="en">1st prize</translation><translation lang="fr">1ers prix</translation><translation lang="pr">1 º prémio
+</translation><translation lang="es">1er premio
+</translation><translation lang="al">1. Preis
+</translation></xmldata><xmldata id="Marques"><translation lang="en">Brands</translation><translation lang="fr">Marques</translation><translation lang="pr">Marcas
+</translation><translation lang="es">Marcas
+</translation><translation lang="al">Brands
+</translation></xmldata><xmldata id="Services"><translation lang="en">Services</translation><translation lang="fr">Services</translation><translation lang="pr">Serviços
+</translation><translation lang="es">Servicios
+</translation><translation lang="al">Dienstleistungen
+</translation></xmldata><xmldata id="Site_Pro"><translation lang="en">Site Pro</translation><translation lang="fr">Site Pro</translation><translation lang="pr">Site Pro
+</translation><translation lang="es">Site Pro
+</translation><translation lang="al">Site Pro
+</translation></xmldata><xmldata id="engagements"><translation lang="en">Our commitments</translation><translation lang="fr">Nos engagements</translation><translation lang="pr">Os nossos compromissos
+</translation><translation lang="es">Nuestros compromisos
+</translation><translation lang="al">Unsere Verpflichtungen
+</translation></xmldata><xmldata id="Conditions_generales"><translation lang="en">Terms and Conditions</translation><translation lang="fr">Conditions générales</translation><translation lang="pr">Termos e Condições
+</translation><translation lang="es">Términos y Condiciones
+</translation><translation lang="al">Allgemeine Geschäftsbedingungen
+</translation></xmldata><xmldata id="Conditions_utilisation"><translation lang="en">Conditions of Use</translation><translation lang="fr">Conditions d\'utilisation</translation><translation lang="pr">Condições de Uso
+</translation><translation lang="es">Condiciones de uso
+</translation><translation lang="al">AGB 's
+</translation></xmldata><xmldata id="Contacts"><translation lang="en">Contacts</translation><translation lang="fr">Contacts</translation><translation lang="pr">Contactos
+</translation><translation lang="es">Contactos
+</translation><translation lang="al">Kontakte
+</translation></xmldata><xmldata id="Recrutement"><translation lang="en">Recruitment</translation><translation lang="fr">Recrutement</translation><translation lang="pr">Recrutamento
+</translation><translation lang="es">Reclutamiento
+</translation><translation lang="al">Rekrutierung
+</translation></xmldata><xmldata id="Nouveautes"><translation lang="en">New!</translation><translation lang="fr">Nouveautés</translation><translation lang="pr">Novo!
+</translation><translation lang="es">Nuevo!
+</translation><translation lang="al">Neu!
+</translation></xmldata><xmldata id="Mentions_legales"><translation lang="en">Legal Notice</translation><translation lang="fr">Mentions légales</translation><translation lang="pr">Aviso Legal
+</translation><translation lang="es">Aviso legal
+</translation><translation lang="al">Rechtliche Hinweise
+</translation></xmldata><xmldata id="Plan_site_contribution"><translation lang="en">Eco-contribution site plan</translation><translation lang="fr">Plan du site Eco-contribution</translation><translation lang="pr">Eco-contribuição planta do local
+</translation><translation lang="es">Eco-contribución de plano del sitio
+</translation><translation lang="al">Öko-Beitrag Lageplan
+</translation></xmldata><xmldata id="Protections_personnelles"><translation lang="en">Data Protection</translation><translation lang="fr">Protections des données personnelles</translation><translation lang="pr">Protecção de Dados
+</translation><translation lang="es">De Protección de Datos
+</translation><translation lang="al">Datenschutz
+</translation></xmldata><xmldata id="Paiment_securise"><translation lang="en">Secure payment</translation><translation lang="fr">Paiment securisé</translation><translation lang="pr">De pagamento seguro
+</translation><translation lang="es">Pago seguro
+</translation><translation lang="al">Sichere Bezahlung
+</translation></xmldata><xmldata id="Powered_by"><translation lang="en">Powered by</translation><translation lang="fr">Powered by</translation><translation lang="pr">Desenvolvido por
+</translation><translation lang="es">Desarrollado por
+</translation><translation lang="al">Präsentiert von
+</translation></xmldata><xmldata id="produits"><translation lang="en">Products</translation><translation lang="fr">Produits&#13;
+</translation><translation lang="pr">Produtos
+</translation><translation lang="es">Productos
+</translation><translation lang="al">Produkte
+</translation></xmldata><xmldata id="Coupons_reduction"><translation lang="en">Discount vouchers</translation><translation lang="fr">Coupons de reduction</translation><translation lang="pr">Os vouchers de desconto
+</translation><translation lang="es">Vales de descuento
+</translation><translation lang="al">Rabatt-Gutscheine
+</translation></xmldata><xmldata id="Magasins"><translation lang="en">Stores</translation><translation lang="fr">Magasins</translation><translation lang="pr">Lojas
+</translation><translation lang="es">Tiendas
+</translation><translation lang="al">Stores
+</translation></xmldata><xmldata id="Evenements_magasin"><translation lang="en">store Events</translation><translation lang="fr">Evénements magasin</translation><translation lang="pr">Eventos da loja
+</translation><translation lang="es">eventos en las tiendas
+</translation><translation lang="al">Shop Events
+</translation></xmldata><xmldata id="Par_magasin"><translation lang="en">by Store</translation><translation lang="fr">Par magasin</translation><translation lang="pr">por loja
+</translation><translation lang="es">por Tienda
+</translation><translation lang="al">by Store
+</translation></xmldata><xmldata id="tous_magasin"><translation lang="en">All stores</translation><translation lang="fr">Tous les magasins</translation><translation lang="pr">Todas as lojas
+</translation><translation lang="es">Todas las tiendas
+</translation><translation lang="al">Alle Filialen
+</translation></xmldata><xmldata id="rayon_Km"><translation lang="en">By radius (km)</translation><translation lang="fr">Par rayon (Km)</translation><translation lang="pr">Ao raio (km)
+</translation><translation lang="es">Por radio (km)
+</translation><translation lang="al">Mit dem Radius (km)
+</translation></xmldata><xmldata id="ok"><translation lang="en">ok</translation><translation lang="fr">ok</translation><translation lang="pr">ok
+</translation><translation lang="es">ok
+</translation><translation lang="al">ok
+</translation></xmldata><xmldata id="Affiner_votre_recherche"><translation lang="en">Refine your search</translation><translation lang="fr">Affiner votre recherche</translation><translation lang="pr">Refine sua pesquisa
+</translation><translation lang="es">Refina tu búsqueda
+</translation><translation lang="al">Verfeinern Sie Ihre Suche
+</translation></xmldata><xmldata id="Par_prix"><translation lang="en">By price </translation><translation lang="fr">Par prix </translation><translation lang="pr">Por um preço de 
+</translation><translation lang="es">Por un precio de 
+</translation><translation lang="al">Mit dem Preis, den ein 
+</translation></xmldata><xmldata id="Par_categories"><translation lang="en">By category</translation><translation lang="fr">Par categories</translation><translation lang="pr">Por categoria
+</translation><translation lang="es">Por categoría
+</translation><translation lang="al">Nach Kategorie
+</translation></xmldata><xmldata id="Categorie"><translation lang="en">Category</translation><translation lang="fr">Catégorie</translation><translation lang="pr">Categoria
+</translation><translation lang="es">Categoría
+</translation><translation lang="al">Kategorie
+</translation></xmldata><xmldata id="Compteur_reductions"><translation lang="en">Compteur de réductions</translation><translation lang="fr">Compteur de réductions</translation><translation lang="pr">Compteur De RÃ © duções
+</translation><translation lang="es">Compteur de ra © producciones
+</translation><translation lang="al">Compteur de rÃ © Produktionen
+</translation></xmldata><xmldata id="Imprimer_coupons"><translation lang="en">Print Coupons</translation><translation lang="fr">Imprimer les coupons</translation><translation lang="pr">Cupons de impressão
+</translation><translation lang="es">Cupones de impresión
+</translation><translation lang="al">Gutscheine ausdrucken
+</translation></xmldata><xmldata id="Rechercher"><translation lang="en">Search</translation><translation lang="fr">Rechercher</translation><translation lang="pr">Pesquisar
+</translation><translation lang="es">Buscar
+</translation><translation lang="al">Suche
+</translation></xmldata><xmldata id="Coupons"><translation lang="en">Coupons</translation><translation lang="fr">Coupons</translation><translation lang="pr">Cupons
+</translation><translation lang="es">Cupones
+</translation><translation lang="al">Gutscheine
+</translation></xmldata><xmldata id="Rayon1"><translation lang="en">Department</translation><translation lang="fr">Rayon</translation><translation lang="pr">Departamento
+</translation><translation lang="es">Departamento
+</translation><translation lang="al">Abteilung
+</translation></xmldata><xmldata id="Tous_les_categories"><translation lang="en">All categories</translation><translation lang="fr">Tous les catégories</translation><translation lang="pr">Todas as categorias
+</translation><translation lang="es">Todas las categorías
+</translation><translation lang="al">Alle Kategorien
+</translation></xmldata><xmldata id="Sous_categorie"><translation lang="en">Sub-category</translation><translation lang="fr">Sous catégorie</translation><translation lang="pr">Sub-categoria
+</translation><translation lang="es">Sub-categoría
+</translation><translation lang="al">Sub-Kategorie
+</translation></xmldata><xmldata id="bjr"><translation lang="en">Hello</translation><translation lang="fr">bonjour</translation><translation lang="pr">Olá
+</translation><translation lang="es">¡Hola
+</translation><translation lang="al">Hallo
+</translation></xmldata><xmldata id="Imprimer_liste"><translation lang="en">Print </translation><translation lang="fr">Imprimer la liste</translation><translation lang="pr">Imprimir
+</translation><translation lang="es">Imprimir
+</translation><translation lang="al">Drucken
+</translation></xmldata><xmldata id="Envoyer_liste"><translation lang="en">Send list</translation><translation lang="fr">Envoyer la liste</translation><translation lang="pr">Enviar a lista
+</translation><translation lang="es">Enviar lista de
+</translation><translation lang="al">Senden Liste
+</translation></xmldata><xmldata id="Imprimer"><translation lang="en">Print</translation><translation lang="fr">Imprimer</translation><translation lang="pr">Imprimir
+</translation><translation lang="es">Imprimir
+</translation><translation lang="al">Drucken
+</translation></xmldata><xmldata id="Mon_profil"><translation lang="en">My profile&#13;
+</translation><translation lang="fr">Mon profil</translation><translation lang="pr">Meu perfil
+</translation><translation lang="es">Mi perfil de
+</translation><translation lang="al">Mein Profil
+</translation></xmldata><xmldata id="Mes_favoris"><translation lang="en">My favorites&#13;
+</translation><translation lang="fr">Mes favoris</translation><translation lang="pr">Os meus favoritos
+</translation><translation lang="es">Mis Favoritos
+</translation><translation lang="al">Meine Favoriten
+</translation></xmldata><xmldata id="Mes_magasins"><translation lang="en">My stores&#13;
+</translation><translation lang="fr">Mes magasins</translation><translation lang="pr">Minhas lojas
+</translation><translation lang="es">Mis tiendas
+</translation><translation lang="al">My Stores
+</translation></xmldata><xmldata id="Mes_coupons"><translation lang="en">My vouchers&#13;
+</translation><translation lang="fr">Mes coupons</translation><translation lang="pr">Meus cheques
+</translation><translation lang="es">Mis vales
+</translation><translation lang="al">Meine Gutscheine
+</translation></xmldata><xmldata id="Mes_produits"><translation lang="en">My products&#13;
+</translation><translation lang="fr">Mes produits</translation><translation lang="pr">Meus produtos
+</translation><translation lang="es">Mis productos
+</translation><translation lang="al">Meine Produkte
+</translation></xmldata><xmldata id="mes_evenements"><translation lang="en">My events&#13;
+</translation><translation lang="fr">Mes événements</translation><translation lang="pr">Meus eventos
+</translation><translation lang="es">Mis fiestas
+</translation><translation lang="al">Meine Veranstaltungen
+</translation></xmldata><xmldata id="Acheter_publicite"><translation lang="en">Buy ad&#13;
+</translation><translation lang="fr">Acheter de la publicité</translation><translation lang="pr">Compre anúncio
+</translation><translation lang="es">Comprar anuncios
+</translation><translation lang="al">Kaufen ad
+</translation></xmldata><xmldata id="Mon_abonnement"><translation lang="en">My subscription&#13;
+</translation><translation lang="fr">Mon abonnement</translation><translation lang="pr">Minha assinatura
+</translation><translation lang="es">Mi suscripción
+</translation><translation lang="al">Mein Abonnement
+</translation></xmldata><xmldata id="Louer_les_service_photographe"><translation lang="en">Hire a photographer&#13;
+</translation><translation lang="fr">Louer les service d\\\'un photographe</translation><translation lang="pr">Contrate um fotógrafo
+</translation><translation lang="es">Contratar a un fotógrafo
+</translation><translation lang="al">Mieten Sie sich ein Fotograf
+</translation></xmldata><xmldata id="Proposer_une_categorie"><translation lang="en">Propose a category&#13;
+</translation><translation lang="fr">Proposer une catégorie</translation><translation lang="pr">Propor uma categoria
+</translation><translation lang="es">Proponer una categoría
+</translation><translation lang="al">Schlagen Sie eine Kategorie
+</translation></xmldata><xmldata id="par_rayon"><translation lang="en">By departement</translation><translation lang="fr">par rayon</translation><translation lang="pr">Por departement
+</translation><translation lang="es">Por departamentos
+</translation><translation lang="al">Mit dem Departement
+</translation></xmldata><xmldata id="Par_coupon"><translation lang="en">By voucher</translation><translation lang="fr">Par coupon</translation><translation lang="pr">Por comprovante
+</translation><translation lang="es">Al bono
+</translation><translation lang="al">Mit dem Gutschein
+</translation></xmldata><xmldata id="Rechercher_dans_le_site"><translation lang="en">Search the site</translation><translation lang="fr">Rechercher dans le site</translation><translation lang="pr">Busca no site
+</translation><translation lang="es">Buscar en el sitio
+</translation><translation lang="al">Suche auf der Website
+</translation></xmldata><xmldata id="coupons_reduction"><translation lang="en">Discounts vouchers</translation><translation lang="fr">Coupons de réduction</translation><translation lang="pr">Vouchers de descontos
+</translation><translation lang="es">Descuentos bonos
+</translation><translation lang="al">Gutscheine Rabatte
+</translation></xmldata><xmldata id="Trier_par"><translation lang="en">Sort by</translation><translation lang="fr">Trier par</translation><translation lang="pr">Classificar por
+</translation><translation lang="es">Ordenar por
+</translation><translation lang="al">Sortieren nach
+</translation></xmldata><xmldata id="selectionner"><translation lang="en">Select</translation><translation lang="fr">Sélèctionner</translation><translation lang="pr">Selecionar
+</translation><translation lang="es">Seleccionar
+</translation><translation lang="al">Wählen
+</translation></xmldata><xmldata id="Distance"><translation lang="en">Distance</translation><translation lang="fr">Distance</translation><translation lang="pr">Distância
+</translation><translation lang="es">Distancia
+</translation><translation lang="al">Abstand
+</translation></xmldata><xmldata id="Prix2"><translation lang="en">PRICE</translation><translation lang="fr">Prix</translation><translation lang="pr">PREÇO
+</translation><translation lang="es">PRECIO
+</translation><translation lang="al">PREIS
+</translation></xmldata><xmldata id="produits_correspondent_a_votre_recherche"><translation lang="en">products meet your search</translation><translation lang="fr">produits correspondent a votre recherche</translation><translation lang="pr">produtos atendem a sua pesquisa
+</translation><translation lang="es">productos cumplen con su búsqueda
+</translation><translation lang="al">Produkte entsprechen Ihrer Suche
+</translation></xmldata><xmldata id="km"><translation lang="en">km</translation><translation lang="fr">km</translation><translation lang="pr">km
+</translation><translation lang="es">kilometros
+</translation><translation lang="al">km
+</translation></xmldata><xmldata id="produits_disponibles_dans_ce_magasin"><translation lang="en">products available in this store</translation><translation lang="fr">produits disponibles dans ce magasin</translation><translation lang="pr">produtos disponíveis nesta loja
+</translation><translation lang="es">los productos disponibles en esta tienda
+</translation><translation lang="al">Produkte in diesem Shop
+</translation></xmldata><xmldata id="Ce_magasin_propose"><translation lang="en">This store offers</translation><translation lang="fr">Ce magasin propose</translation><translation lang="pr">Esta loja oferece
+</translation><translation lang="es">Esta tienda ofrece
+</translation><translation lang="al">Dieser Shop bietet
+</translation></xmldata><xmldata id="ajouter_ma_liste_des_courses"><translation lang="en">add to my shopping list</translation><translation lang="fr">ajouter à ma liste des courses</translation><translation lang="pr">adicionar à minha lista de compras
+</translation><translation lang="es">añadir a mi lista de compras
+</translation><translation lang="al">auf meine Einkaufsliste
+</translation></xmldata><xmldata id="Produits_par_page"><translation lang="en">Items per page</translation><translation lang="fr">Produits par page</translation><translation lang="pr">Itens por página
+</translation><translation lang="es">Los artículos por página
+</translation><translation lang="al">Artikel pro Seite
+</translation></xmldata><xmldata id="Page_1_sur"><translation lang="en">Page 1 of</translation><translation lang="fr">Page 1 sur</translation><translation lang="pr">Página 1 de
+</translation><translation lang="es">Página 1 de
+</translation><translation lang="al">Seite 1 von
+</translation></xmldata><xmldata id="Ouvert"><translation lang="en">Open</translation><translation lang="fr">Ouvert</translation><translation lang="pr">Aberto
+</translation><translation lang="es">Abierto
+</translation><translation lang="al">Geöffnet
+</translation></xmldata><xmldata id="de_reduction"><translation lang="en">of discount</translation><translation lang="fr"> de réduction</translation><translation lang="pr">de desconto
+</translation><translation lang="es">de descuento
+</translation><translation lang="al">der Angebote
+</translation></xmldata><xmldata id="Couponsp"><translation lang="en">Coupon (s)</translation><translation lang="fr">Coupon(s)</translation><translation lang="pr">Cupão (s)
+</translation><translation lang="es">Cupón (s)
+</translation><translation lang="al">Coupon (s)
+</translation></xmldata><xmldata id="evenement"><translation lang="en">Event</translation><translation lang="fr">Événements</translation><translation lang="pr">Evento
+</translation><translation lang="es">Evento
+</translation><translation lang="al">Veranstaltung
+</translation></xmldata><xmldata id="text3_a_traduire"><translation lang="en">![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas at mauris lectus, sed gravida lectus. Ut urna metus, sagittis vel laoreet quis, semper id justo. Praesent facilisis, nunc quis adipiscing luctus, massa metus vestibulum ligula, eget gravida erat ante et mauris. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla et risus tellus. Ut vel ipsum consectetur libero fermentum auctor. In scelerisque sapien vitae libero pharetra iaculis. Quisque id ipsum magna. Etiam euismod nibh quis neque rhoncus vitae sodales lacus dapibus. Sed fermentum facilisis felis non molestie. Aenean eleifend lacus vitae sapien posuere eleifend. Nunc neque sem, porta sit amet porttitor rutrum, faucibus varius enim. Fusce lectus leo, laoreet vel mollis ut, iaculis quis arcu. Donec dictum nibh sed neque aliquet eleifend. Sed dictum augue et ipsum rutrum semper consequat nisi commodo.&#13;
+&#13;
+Quisque lobortis ligula sed diam gravida quis lacinia ipsum tincidunt. Curabitur ornare venenatis condimentum. Morbi ac orci mi. Ut semper, eros sed lacinia tristique, justo leo aliquet mauris, eget gravida lectus diam a massa. Curabitur quis tellus in dolor commodo pharetra non a dui. Suspendisse potenti. Curabitur euismod elementum tincidunt. Quisque dignissim dui feugiat mi pellentesque adipiscing. Donec dignissim sem nec augue sagittis vel sagittis ante ornare. Pellentesque tempor enim id metus placerat ac elementum arcu auctor.&#13;
+&#13;
+Ut scelerisque risus sed felis laoreet ornare. Morbi sagittis tempus orci, a bibendum elit porta tincidunt. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse viverra tempor ligula, id auctor nunc tempus ac. Vivamus porta imperdiet tempor. Duis porttitor erat in quam fringilla ut pulvinar erat congue. Nulla molestie purus in quam tincidunt molestie. Etiam id tortor quis elit vehicula imperdiet nec vel nisi. Integer sed quam nibh, a feugiat tellus. Maecenas nisi elit, mattis vitae lobortis ac, mattis euismod enim. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas molestie lectus lacinia turpis suscipit aliquam placerat massa interdum. Phasellus porttitor eros eu lacus iaculis et accumsan lacus porttitor. Fusce vel ipsum sapien. Suspendisse potenti.&#13;
+&#13;
+Proin blandit laoreet neque id molestie. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur id mauris vel metus rutrum feugiat. Vestibulum aliquam blandit hendrerit. Maecenas justo urna, euismod ac malesuada quis, accumsan vel enim. Fusce et ligula sem, ut imperdiet quam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce vel tempor lectus. Phasellus imperdiet, justo in dignissim lobortis, quam est lacinia ligula, et malesuada leo est vitae leo. Sed a justo id sapien cursus consequat eu consectetur nunc. Nullam quam massa, suscipit in porta nec, faucibus vel risus.&#13;
+&#13;
+Sed feugiat tortor sed dui mollis eget condimentum lectus dignissim. Morbi nisl lectus, interdum id euismod sit amet, pulvinar non orci. Integer tincidunt adipiscing enim at dictum. Donec condimentum turpis sed purus posuere molestie. Suspendisse adipiscing fringilla placerat. Curabitur nulla justo, iaculis quis vestibulum vitae, rutrum id metus. Cras at felis sit amet mauris vestibulum facilisis non et eros. Pellentesque lectus ante, porta eu posuere in, venenatis eu tellus. Proin id tortor velit, sed fringilla ligula. Nullam dignissim congue leo, eget malesuada nulla dapibus nec.&#13;
+Generated 5 paragraphs, 516 words, 3528 bytes of Lorem Ipsum]]&#13;
+</translation><translation lang="pr"/><translation lang="es"/><translation lang="al">Your Ad Kreditkarten
+</translation><translation lang="fr"/></xmldata><xmldata id="text_a_traduire"><translation lang="en">![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas at mauris lectus, sed gravida lectus. Ut urna metus, sagittis vel laoreet quis, semper id justo. Praesent facilisis, nunc quis adipiscing luctus, massa metus vestibulum ligula, eget gravida erat ante et mauris. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla et risus tellus. Ut vel ipsum consectetur libero fermentum auctor. In scelerisque sapien vitae libero pharetra iaculis. Quisque id ipsum magna. Etiam euismod nibh quis neque rhoncus vitae sodales lacus dapibus. Sed fermentum facilisis felis non molestie. Aenean eleifend lacus vitae sapien posuere eleifend. Nunc neque sem, porta sit amet porttitor rutrum, faucibus varius enim. Fusce lectus leo, laoreet vel mollis ut, iaculis quis arcu. Donec dictum nibh sed neque aliquet eleifend. Sed dictum augue et ipsum rutrum semper consequat nisi commodo.&#13;
+&#13;
+Quisque lobortis ligula sed diam gravida quis lacinia ipsum tincidunt. Curabitur ornare venenatis condimentum. Morbi ac orci mi. Ut semper, eros sed lacinia tristique, justo leo aliquet mauris, eget gravida lectus diam a massa. Curabitur quis tellus in dolor commodo pharetra non a dui. Suspendisse potenti. Curabitur euismod elementum tincidunt. Quisque dignissim dui feugiat mi pellentesque adipiscing. Donec dignissim sem nec augue sagittis vel sagittis ante ornare. Pellentesque tempor enim id metus placerat ac elementum arcu auctor.&#13;
+&#13;
+Ut scelerisque risus sed felis laoreet ornare. Morbi sagittis tempus orci, a bibendum elit porta tincidunt. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse viverra tempor ligula, id auctor nunc tempus ac. Vivamus porta imperdiet tempor. Duis porttitor erat in quam fringilla ut pulvinar erat congue. Nulla molestie purus in quam tincidunt molestie. Etiam id tortor quis elit vehicula imperdiet nec vel nisi. Integer sed quam nibh, a feugiat tellus. Maecenas nisi elit, mattis vitae lobortis ac, mattis euismod enim. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas molestie lectus lacinia turpis suscipit aliquam placerat massa interdum. Phasellus porttitor eros eu lacus iaculis et accumsan lacus porttitor. Fusce vel ipsum sapien. Suspendisse potenti.&#13;
+&#13;
+Proin blandit laoreet neque id molestie. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur id mauris vel metus rutrum feugiat. Vestibulum aliquam blandit hendrerit. Maecenas justo urna, euismod ac malesuada quis, accumsan vel enim. Fusce et ligula sem, ut imperdiet quam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce vel tempor lectus. Phasellus imperdiet, justo in dignissim lobortis, quam est lacinia ligula, et malesuada leo est vitae leo. Sed a justo id sapien cursus consequat eu consectetur nunc. Nullam quam massa, suscipit in porta nec, faucibus vel risus.&#13;
+&#13;
+Sed feugiat tortor sed dui mollis eget condimentum lectus dignissim. Morbi nisl lectus, interdum id euismod sit amet, pulvinar non orci. Integer tincidunt adipiscing enim at dictum. Donec condimentum turpis sed purus posuere molestie. Suspendisse adipiscing fringilla placerat. Curabitur nulla justo, iaculis quis vestibulum vitae, rutrum id metus. Cras at felis sit amet mauris vestibulum facilisis non et eros. Pellentesque lectus ante, porta eu posuere in, venenatis eu tellus. Proin id tortor velit, sed fringilla ligula. Nullam dignissim congue leo, eget malesuada nulla dapibus nec.&#13;
+Generated 5 paragraphs, 516 words, 3528 bytes of Lorem Ipsum]]&#13;
+</translation><translation lang="pr"/><translation lang="es"/><translation lang="al">Beschreibung
+</translation><translation lang="fr"/></xmldata><xmldata id="text2_a_traduire"><translation lang="en">![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas at mauris lectus, sed gravida lectus. Ut urna metus, sagittis vel laoreet quis, semper id justo. Praesent facilisis, nunc quis adipiscing luctus, massa metus vestibulum ligula, eget gravida erat ante et mauris. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla et risus tellus. Ut vel ipsum consectetur libero fermentum auctor. In scelerisque sapien vitae libero pharetra iaculis. Quisque id ipsum magna. Etiam euismod nibh quis neque rhoncus vitae sodales lacus dapibus. Sed fermentum facilisis felis non molestie. Aenean eleifend lacus vitae sapien posuere eleifend. Nunc neque sem, porta sit amet porttitor rutrum, faucibus varius enim. Fusce lectus leo, laoreet vel mollis ut, iaculis quis arcu. Donec dictum nibh sed neque aliquet eleifend. Sed dictum augue et ipsum rutrum semper consequat nisi commodo.&#13;
+&#13;
+Quisque lobortis ligula sed diam gravida quis lacinia ipsum tincidunt. Curabitur ornare venenatis condimentum. Morbi ac orci mi. Ut semper, eros sed lacinia tristique, justo leo aliquet mauris, eget gravida lectus diam a massa. Curabitur quis tellus in dolor commodo pharetra non a dui. Suspendisse potenti. Curabitur euismod elementum tincidunt. Quisque dignissim dui feugiat mi pellentesque adipiscing. Donec dignissim sem nec augue sagittis vel sagittis ante ornare. Pellentesque tempor enim id metus placerat ac elementum arcu auctor.&#13;
+&#13;
+Ut scelerisque risus sed felis laoreet ornare. Morbi sagittis tempus orci, a bibendum elit porta tincidunt. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse viverra tempor ligula, id auctor nunc tempus ac. Vivamus porta imperdiet tempor. Duis porttitor erat in quam fringilla ut pulvinar erat congue. Nulla molestie purus in quam tincidunt molestie. Etiam id tortor quis elit vehicula imperdiet nec vel nisi. Integer sed quam nibh, a feugiat tellus. Maecenas nisi elit, mattis vitae lobortis ac, mattis euismod enim. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas molestie lectus lacinia turpis suscipit aliquam placerat massa interdum. Phasellus porttitor eros eu lacus iaculis et accumsan lacus porttitor. Fusce vel ipsum sapien. Suspendisse potenti.&#13;
+&#13;
+Proin blandit laoreet neque id molestie. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur id mauris vel metus rutrum feugiat. Vestibulum aliquam blandit hendrerit. Maecenas justo urna, euismod ac malesuada quis, accumsan vel enim. Fusce et ligula sem, ut imperdiet quam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce vel tempor lectus. Phasellus imperdiet, justo in dignissim lobortis, quam est lacinia ligula, et malesuada leo est vitae leo. Sed a justo id sapien cursus consequat eu consectetur nunc. Nullam quam massa, suscipit in porta nec, faucibus vel risus.&#13;
+&#13;
+Sed feugiat tortor sed dui mollis eget condimentum lectus dignissim. Morbi nisl lectus, interdum id euismod sit amet, pulvinar non orci. Integer tincidunt adipiscing enim at dictum. Donec condimentum turpis sed purus posuere molestie. Suspendisse adipiscing fringilla placerat. Curabitur nulla justo, iaculis quis vestibulum vitae, rutrum id metus. Cras at felis sit amet mauris vestibulum facilisis non et eros. Pellentesque lectus ante, porta eu posuere in, venenatis eu tellus. Proin id tortor velit, sed fringilla ligula. Nullam dignissim congue leo, eget malesuada nulla dapibus nec.&#13;
+Generated 5 paragraphs, 516 words, 3528 bytes of Lorem Ipsum]]&#13;
+</translation><translation lang="pr"/><translation lang="es"/><translation lang="al">Startdatum
+</translation><translation lang="fr"/></xmldata><xmldata id="Votre_Credit_Publicite"><translation lang="en">Your Ad Credit&#13;
+</translation><translation lang="pr">Seu Crédito anúncio
+</translation><translation lang="es">Su anuncio de crédito
+</translation><translation lang="al">Your Ad Kreditkarten
+</translation><translation lang="fr">Votre crédit de l\'annonce</translation></xmldata><xmldata id="Description"><translation lang="en">Description</translation><translation lang="pr">Descrição
+</translation><translation lang="es">Descripción
+</translation><translation lang="al">Beschreibung
+</translation><translation lang="fr">Description</translation></xmldata><xmldata id="Date_debut"><translation lang="en">Start date&#13;
+</translation><translation lang="pr">Data de início
+</translation><translation lang="es">Fecha de inicio
+</translation><translation lang="al">Startdatum
+</translation><translation lang="fr">Date de début</translation></xmldata><xmldata id="Date_fin"><translation lang="en">End date</translation><translation lang="pr">Data de término
+</translation><translation lang="es">Fecha de finalización
+</translation><translation lang="al">Enddatum
+</translation><translation lang="fr">Date de fin</translation></xmldata><xmldata id="Lieu"><translation lang="en">Place</translation><translation lang="pr">Lugar
+</translation><translation lang="es">Lugar
+</translation><translation lang="al">Ort
+</translation><translation lang="fr">Place</translation></xmldata><xmldata id="Active"><translation lang="en">Active</translation><translation lang="pr">Ativo
+</translation><translation lang="es">Activo
+</translation><translation lang="al">Aktiv
+</translation><translation lang="fr">Active</translation></xmldata><xmldata id="Oui"><translation lang="en">Yes</translation><translation lang="pr">Sim
+</translation><translation lang="es">Sí
+</translation><translation lang="al">Ja
+</translation><translation lang="fr">Oui</translation></xmldata><xmldata id="Non"><translation lang="en">No</translation><translation lang="pr">Não
+</translation><translation lang="es">No
+</translation><translation lang="al">Kein
+</translation><translation lang="fr">Non</translation></xmldata><xmldata id="Evenements"><translation lang="en">Events</translation><translation lang="pr">Eventos
+</translation><translation lang="es">Eventos
+</translation><translation lang="al">Veranstaltungen
+</translation><translation lang="fr">Événements</translation></xmldata><xmldata id="Calandrier"><translation lang="en">Calendar</translation><translation lang="pr">Calendário
+</translation><translation lang="es">Calendario
+</translation><translation lang="al">Kalender
+</translation><translation lang="fr">calendrier</translation></xmldata><xmldata id="Mot_de_passe_oublie"><translation lang="en">lost password</translation><translation lang="pr">senha perdida
+</translation><translation lang="es">contraseña perdida
+</translation><translation lang="al">Passwort vergessen
+</translation><translation lang="fr">mot de passe perdu</translation></xmldata><xmldata id="Nouveau_membre"><translation lang="en">New member&#13;
+</translation><translation lang="pr">Novo membro
+</translation><translation lang="es">Nuevo miembro
+</translation><translation lang="al">Neues Mitglied
+</translation><translation lang="fr">Nouveau membre</translation></xmldata><xmldata id="Creer_un_compte"><translation lang="en">Create an account</translation><translation lang="pr">Criar uma conta
+</translation><translation lang="es">Crear una cuenta
+</translation><translation lang="al">Erstellen Sie ein Konto
+</translation><translation lang="fr">Créer un compte </translation></xmldata><xmldata id="Liste_des_evenements"><translation lang="en">List of events</translation><translation lang="pr">Lista de eventos
+</translation><translation lang="es">Lista de los eventos
+</translation><translation lang="al">Liste der Veranstaltungen
+</translation><translation lang="fr">La liste des événements </translation></xmldata><xmldata id="Titre"><translation lang="en">Title</translation><translation lang="pr">Título
+</translation><translation lang="es">Título
+</translation><translation lang="al">Titel
+</translation><translation lang="fr">Titre</translation></xmldata><xmldata id="Inscription1"><translation lang="en">Registration</translation><translation lang="pr">Registro
+</translation><translation lang="es">Registro
+</translation><translation lang="al">Anmeldung
+</translation><translation lang="fr">Inscription</translation></xmldata><xmldata id="Vous_etes"><translation lang="en">You are</translation><translation lang="pr">Você é
+</translation><translation lang="es">Es
+</translation><translation lang="al">Sie sind
+</translation><translation lang="fr">Vous êtes</translation></xmldata><xmldata id="Utilisateur"><translation lang="en">User</translation><translation lang="pr">Usuário
+</translation><translation lang="es">Usuario
+</translation><translation lang="al">Benutzer
+</translation><translation lang="fr">utilisateurs</translation></xmldata><xmldata id="Photographe"><translation lang="en">Photographer</translation><translation lang="pr">Fotógrafo
+</translation><translation lang="es">Fotógrafo
+</translation><translation lang="al">Fotograf
+</translation><translation lang="fr">Photographes</translation></xmldata><xmldata id="p1"><translation lang="en">![CDATA[Vous avez besoin d\'un renseignement sur votre commande ? Vous voulez devenir un partenaire affilié ? Vous êtes un professionnel à la recherche d\'un fournisseur ?Les réponses à vos questions se trouvent sans doute sur notre site et dans notre Foire Aux Questions.&lt;br /&gt;&#13;
+&#13;
+Pour tout autre question spécifique, contactez-nous directement grâce aux informations ci-dessous]]</translation><translation lang="pr"/><translation lang="es"/><translation lang="al">Deutsch
+</translation><translation lang="fr"/></xmldata><xmldata id="esLang"><translation lang="fr">Espagnol</translation><translation lang="pr">Espanhol
+</translation><translation lang="es">Español
+</translation><translation lang="al">Spanisch
+</translation><translation lang="en">Spanish</translation></xmldata><xmldata id="prLang"><translation lang="fr">Portugaise</translation><translation lang="pr">Português
+</translation><translation lang="es">Portugués
+</translation><translation lang="al">Portugiesisch
+</translation><translation lang="en">Portuguese</translation></xmldata><xmldata id="Commercant"><translation lang="en">Retailer</translation><translation lang="pr">Varejista
+</translation><translation lang="es">Detallista
+</translation><translation lang="al">Einzelhändler
+</translation><translation lang="fr"/></xmldata><xmldata id="alLang"><translation lang="fr">Allemand</translation><translation lang="pr">Alemão
+</translation><translation lang="es">Alemán
+</translation><translation lang="al">Deutsch
+</translation><translation lang="en">German</translation></xmldata><xmldata id="Contacter"><translation lang="en">Contact</translation><translation lang="pr">Contato
+</translation><translation lang="es">Contacto
+</translation><translation lang="al">Kontakt
+</translation><translation lang="fr">contact</translation></xmldata><xmldata id="pour"><translation lang="en">for</translation><translation lang="pr">para
+</translation><translation lang="es">para
+</translation><translation lang="al">für
+</translation><translation lang="fr">pour</translation></xmldata><xmldata id="Vous_souhaitez_contacter_notre_Service_Clients"><translation lang="en">Need to contact our Customer Service</translation><translation lang="es">Necesita ponerse en contacto con nuestro Servicio al Cliente
+</translation><translation lang="al">Müssen Sie sich mit unseren Kundenservice kontaktieren
+</translation><translation lang="fr">Besoin de contacter notre Service à la clientèle</translation><translation lang="pr">Necessidade de contactar o nosso Serviço ao Cliente
+</translation></xmldata><xmldata id="information"><translation lang="en">![CDATA[- POUR PASSER COMMANDE : Par téléphone au 0 892 700 104 (0,34  TTC / min) ou par mail en cliquant ici.&lt;br /&gt;&#13;
+- SUITE A UNE COMMANDE : Par téléphone au 09 69 321 020 (prix d\'un appel local) ou par mail en cliquant ici.&lt;br /&gt;&#13;
+Notre Service Clients est à votre disposition du lundi au vendredi de 8h à 21h et le samedi de 9h à 18h]]</translation><translation lang="es"/><translation lang="al">Vous Ã ª tes un Marchand et professionnel souhaitez vendre sur
+</translation><translation lang="fr"/><translation lang="pr"/></xmldata><xmldata id="Vous_avez_des_suggestions_nous_transmettre_sur_le_site"><translation lang="en">![CDATA[Vous avez des suggestions à nous transmettre sur le site ?]]</translation><translation lang="es"/><translation lang="al">Rabatt
+</translation><translation lang="fr"/><translation lang="pr"/></xmldata><xmldata id="Votre_avis_nous_interesse"><translation lang="en">![CDATA[Votre avis nous intéresse !]]</translation><translation lang="es"/><translation lang="al">Interessiert in unserem Team mitzuarbeiten?
+</translation><translation lang="fr"/><translation lang="pr"/></xmldata><xmldata id="hesitez_pas_nous_transmettre_vos_remarques_suggestions_sur_site_en"><translation lang="en">![CDATA[N\'hésitez pas à nous transmettre vos remarques ou suggestions sur le site en]] </translation><translation lang="es"/><translation lang="al">Sie können unsere Stellenangebote auf unserer Webseite ansehen, indem Sie hier klicken
+</translation><translation lang="fr"/><translation lang="pr"/></xmldata><xmldata id="Vous_souhaitez_etre_affilie"><translation lang="en">Vous souhaitez être affilié à</translation><translation lang="es">Vous Ã ª tre souhaitez afiliación © A
+</translation><translation lang="al">Vous souhaitez être Affilia © Ã
+</translation><translation lang="fr"/><translation lang="pr">Vous souhaitez Ã ª tre Ã © afiliações
+</translation></xmldata><xmldata id="cliquant_ici"><translation lang="en">Click here</translation><translation lang="es">Haga clic aquí
+</translation><translation lang="al">Klicken Sie hier
+</translation><translation lang="fr">cliquez ici&#13;
+uez ici</translation><translation lang="pr">Clique aqui
+</translation></xmldata><xmldata id="text4"><translation lang="en">![CDATA[Devenez affilié et générez des revenus très facilement en proposant nos produits et services sur votre site ! En associant le contenu de votre site à notre notoriété, vous séduirez vos internautes et augmenterez le trafic de votre site.&lt;br /&gt;&#13;
+Devenez affilié en cliquant ici]]</translation><translation lang="es"/><translation lang="al">Adresse
+</translation><translation lang="fr"/><translation lang="pr"/></xmldata><xmldata id="Vous_souhaitez_devenir_partenaire_de"><translation lang="en">Want to Partner</translation><translation lang="es">¿Quieres socio
+</translation><translation lang="al">Wollen Sie Partner
+</translation><translation lang="fr">Voulez vous un partenaire </translation><translation lang="pr">Quer um Parceiro
+</translation></xmldata><xmldata id="text5"><translation lang="en">![CDATA[Vous désirez nous proposer un partenariat ou un échange de liens ?&lt;br /&gt;&#13;
+Contactez-nous par mail : partenariat@magasinducoin.com]]</translation><translation lang="es"/><translation lang="al">Veranstaltungen
+</translation><translation lang="fr"/><translation lang="pr"/></xmldata><xmldata id="Vous_etes_un_professionnel"><translation lang="en">Are you a professional?</translation><translation lang="es">¿Es usted un profesional?
+</translation><translation lang="al">Sind Sie Profi?
+</translation><translation lang="fr">Vous êtes un professionnel ?</translation><translation lang="pr">Você é um profissional?
+</translation></xmldata><xmldata id="text6"><translation lang="en">![CDATA[est le site e-commerce dédié aux besoins des professionnels, il vous offre une large gamme de produits et services spécifiques.&lt;br /&gt;&#13;
+Accéder au site magasinducoin en cliquant ici]]</translation><translation lang="es"/><translation lang="al">Öffnungszeiten
+</translation><translation lang="fr"/><translation lang="pr"/></xmldata><xmldata id="Vous_etes_un_marchand_professionnel_et_souhaitez_vendre_sur"><translation lang="en">Vous êtes un marchand professionnel et souhaitez vendre sur</translation><translation lang="es">Vous Ã ª tes de las Naciones Unidas marchand professionnel et souhaitez vendre sur
+</translation><translation lang="al">Vous Ã ª tes un Marchand et professionnel souhaitez vendre sur
+</translation><translation lang="fr"/><translation lang="pr">Vous Ã ª tes un marchand professionnel et souhaitez vendre sur
+</translation></xmldata><xmldata id="bon_reduction"><translation lang="fr">bon de réduction</translation><translation lang="es">Descuento
+</translation><translation lang="al">Rabatt
+</translation><translation lang="en">Discount</translation><translation lang="pr">Desconto
+</translation></xmldata><xmldata id="text7"><translation lang="en">![CDATA[Vous êtes un marchand professionnel et souhaitez vendre sur = Vous_etes_un_marchand_professionnel_et_souhaitez_vendre_sur &#13;
+vous offre la possibilité de devenir marchand sur sa place de marché PIXPlace et donc de vendre vos produits directement sur magasin du coin.com.&lt;br /&gt;&#13;
+En savoir + en cliquant ici]]</translation><translation lang="es"/><translation lang="al">Startdatum
+</translation><translation lang="fr"/><translation lang="pr"/></xmldata><xmldata id="Vous_souhaitez_rejoindre_notre_equipe"><translation lang="en">Interested in joining our team?</translation><translation lang="es">Interesado en formar parte de nuestro equipo?
+</translation><translation lang="al">Interessiert in unserem Team mitzuarbeiten?
+</translation><translation lang="fr">Vous souhaitez rejoindre notre équipe?</translation><translation lang="pr">Interessado em fazer parte da nossa equipe?
+</translation></xmldata><xmldata id="Vous_pouvez_consultez_nos_offres_emploi_sur_notre_site_Internet_en_cliquant_ici"><translation lang="en">You can view our vacancies on our website by clicking here</translation><translation lang="es">Puede ver nuestras ofertas en nuestra página web haciendo clic aquí
+</translation><translation lang="al">Sie können unsere Stellenangebote auf unserer Webseite ansehen, indem Sie hier klicken
+</translation><translation lang="fr">Vous pouvez consulter nos offres d\'emploi sur notre site en cliquant ici</translation><translation lang="pr">Você pode ver as nossas vagas em nosso site clicando aqui
+</translation></xmldata><xmldata id="Coupons_valable_pour_le"><translation lang="en">Coupons valid for</translation><translation lang="es">Cupones válidos para
+</translation><translation lang="al">Gutscheine gültig
+</translation><translation lang="fr">Coupons valide pour</translation><translation lang="pr">Cupons válidos para
+</translation></xmldata><xmldata id="Magasin"><translation lang="en">Store</translation><translation lang="es">Almacenar
+</translation><translation lang="al">Bewahren Sie
+</translation><translation lang="fr">Magasin</translation><translation lang="pr">Armazene
+</translation></xmldata><xmldata id="Adresse"><translation lang="en">address</translation><translation lang="es">dirección
+</translation><translation lang="al">Adresse
+</translation><translation lang="fr">Adresse</translation><translation lang="pr">endereço
+</translation></xmldata><xmldata id="Map"><translation lang="en">Map</translation><translation lang="es">Mapa
+</translation><translation lang="al">Karte
+</translation><translation lang="fr">Map</translation><translation lang="pr">Mapa
+</translation></xmldata><xmldata id="evenements"><translation lang="en">events</translation><translation lang="es">eventos
+</translation><translation lang="al">Veranstaltungen
+</translation><translation lang="fr">Evenements</translation><translation lang="pr">eventos
+</translation></xmldata><xmldata id="jours_ouverture"><translation lang="en">Opening Days</translation><translation lang="es">Días de apertura
+</translation><translation lang="al">Eröffnungstage
+</translation><translation lang="fr">jours d\'ouvertures</translation><translation lang="pr">Dias de abertura
+</translation></xmldata><xmldata id="heure_ouverture"><translation lang="en">Opening Hours</translation><translation lang="es">Horario de apertura
+</translation><translation lang="al">Öffnungszeiten
+</translation><translation lang="fr">heure d\'ouverture</translation><translation lang="pr">Horário de Funcionamento
+</translation></xmldata><xmldata id="produit_disponible_dans"><translation lang="en">product(s) unavailable &#13;
+</translation><translation lang="es">producto (s) disponible
+</translation><translation lang="al">Produkt (e) nicht verfügbar
+</translation><translation lang="fr">produit in-valable</translation><translation lang="pr">produto (s) não disponível
+</translation></xmldata><xmldata id="Autres_produits_en_rapport_avec_votre_choix"><translation lang="en">Autres produits en rapport avec votre choix</translation><translation lang="es">Autres produits avec votre en armonía choix
+</translation><translation lang="al">Autres produits en rapport avec votre choix
+</translation><translation lang="fr"/><translation lang="pr">Autres produits en rapport avec votre choix
+</translation></xmldata><xmldata id="Date_de_debut"><translation lang="en">Start date</translation><translation lang="es">Fecha de inicio
+</translation><translation lang="al">Startdatum
+</translation><translation lang="fr">date de debut </translation><translation lang="pr">Data de início
+</translation></xmldata><xmldata id="Liste_des_coupons_du_magasin"><translation lang="en">List of store coupons</translation><translation lang="es">Lista de los cupones de la tienda
+</translation><translation lang="al">Liste der Shops Coupons
+</translation><translation lang="fr">la liste des coupons des magasins </translation><translation lang="pr">Lista de cupons loja
+</translation></xmldata><xmldata id="Reduction"><translation lang="en">Discount&#13;
+</translation><translation lang="es">Descuento
+</translation><translation lang="al">Rabatt
+</translation><translation lang="fr">réduction</translation><translation lang="pr">Desconto
+</translation></xmldata><xmldata id="A_cote_de_chez_vous"><translation lang="en">Near you</translation><translation lang="es">Cerca de usted
+</translation><translation lang="al">In Ihrer Nähe
+</translation><translation lang="fr">Proche de vous </translation><translation lang="pr">Perto de você
+</translation></xmldata><xmldata id="Marque"><translation lang="en">brand</translation><translation lang="es">marca
+</translation><translation lang="al">Marke
+</translation><translation lang="fr">marque</translation><translation lang="pr">marca
+</translation></xmldata><xmldata id="En_stock"><translation lang="en">in stock</translation><translation lang="es">en existencia
+</translation><translation lang="al">vorrätig
+</translation><translation lang="fr">en stock</translation><translation lang="pr">em estoque
+</translation></xmldata><xmldata id="Partager_ce_lien"><translation lang="en">Share this link</translation><translation lang="es">Compartir este enlace
+</translation><translation lang="al">Empfehlen Sie diesen Link
+</translation><translation lang="fr">Partager ce lien</translation><translation lang="pr">Compartilhe este link
+</translation></xmldata><xmldata id="Ajout"><translation lang="en">Add</translation><translation lang="es">Añadir
+</translation><translation lang="al">Hinzufügen
+</translation><translation lang="fr">Ajouter</translation><translation lang="pr">Adicionar
+</translation></xmldata><xmldata id="Engagement"><translation lang="en">commitment</translation><translation lang="fr"/><translation lang="pr">compromisso
+</translation><translation lang="al">Engagement
+</translation><translation lang="es">compromiso
+</translation></xmldata><xmldata id="text8"><translation lang="en">![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas at mauris lectus, sed gravida lectus. Ut urna metus, sagittis vel laoreet quis, semper id justo. Praesent facilisis, nunc quis adipiscing luctus, massa metus vestibulum ligula, eget gravida erat ante et mauris. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla et risus tellus. Ut vel ipsum consectetur libero fermentum auctor. In scelerisque sapien vitae libero pharetra iaculis. Quisque id ipsum magna. Etiam euismod nibh quis neque rhoncus vitae sodales lacus dapibus. Sed fermentum facilisis felis non molestie. Aenean eleifend lacus vitae sapien posuere eleifend. Nunc neque sem, porta sit amet porttitor rutrum, faucibus varius enim. Fusce lectus leo, laoreet vel mollis ut, iaculis quis arcu. Donec dictum nibh sed neque aliquet eleifend. Sed dictum augue et ipsum rutrum semper consequat nisi commodo.&#13;
+&#13;
+Quisque lobortis ligula sed diam gravida quis lacinia ipsum tincidunt. Curabitur ornare venenatis condimentum. Morbi ac orci mi. Ut semper, eros sed lacinia tristique, justo leo aliquet mauris, eget gravida lectus diam a massa. Curabitur quis tellus in dolor commodo pharetra non a dui. Suspendisse potenti. Curabitur euismod elementum tincidunt. Quisque dignissim dui feugiat mi pellentesque adipiscing. Donec dignissim sem nec augue sagittis vel sagittis ante ornare. Pellentesque tempor enim id metus placerat ac elementum arcu auctor.&#13;
+&#13;
+Ut scelerisque risus sed felis laoreet ornare. Morbi sagittis tempus orci, a bibendum elit porta tincidunt. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse viverra tempor ligula, id auctor nunc tempus ac. Vivamus porta imperdiet tempor. Duis porttitor erat in quam fringilla ut pulvinar erat congue. Nulla molestie purus in quam tincidunt molestie. Etiam id tortor quis elit vehicula imperdiet nec vel nisi. Integer sed quam nibh, a feugiat tellus. Maecenas nisi elit, mattis vitae lobortis ac, mattis euismod enim. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas molestie lectus lacinia turpis suscipit aliquam placerat massa interdum. Phasellus porttitor eros eu lacus iaculis et accumsan lacus porttitor. Fusce vel ipsum sapien. Suspendisse potenti.&#13;
+&#13;
+Proin blandit laoreet neque id molestie. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur id mauris vel metus rutrum feugiat. Vestibulum aliquam blandit hendrerit. Maecenas justo urna, euismod ac malesuada quis, accumsan vel enim. Fusce et ligula sem, ut imperdiet quam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce vel tempor lectus. Phasellus imperdiet, justo in dignissim lobortis, quam est lacinia ligula, et malesuada leo est vitae leo. Sed a justo id sapien cursus consequat eu consectetur nunc. Nullam quam massa, suscipit in porta nec, faucibus vel risus.&#13;
+&#13;
+Sed feugiat tortor sed dui mollis eget condimentum lectus dignissim. Morbi nisl lectus, interdum id euismod sit amet, pulvinar non orci. Integer tincidunt adipiscing enim at dictum. Donec condimentum turpis sed purus posuere molestie. Suspendisse adipiscing fringilla placerat. Curabitur nulla justo, iaculis quis vestibulum vitae, rutrum id metus. Cras at felis sit amet mauris vestibulum facilisis non et eros. Pellentesque lectus ante, porta eu posuere in, venenatis eu tellus. Proin id tortor velit, sed fringilla ligula. Nullam dignissim congue leo, eget malesuada nulla dapibus nec.&#13;
+Generated 5 paragraphs, 516 words, 3528 bytes of Lorem Ipsum&#13;
+]]</translation><translation lang="fr"/><translation lang="pr"/><translation lang="al"/><translation lang="es"/></xmldata><xmldata id="Resume_de_competence"><translation lang="en">Summary of skills</translation><translation lang="fr">Résumé des compétences</translation><translation lang="pr">Resumo das qualificações
+</translation><translation lang="al">Zusammenfassung der Qualifikationen
+</translation><translation lang="es">Resumen de las habilidades
+</translation></xmldata><xmldata id="Note"><translation lang="en">Note</translation><translation lang="fr"/><translation lang="pr">Nota
+</translation><translation lang="al">Beachten
+</translation><translation lang="es">Nota
+</translation></xmldata><xmldata id="Inserer_votre_commentaire"><translation lang="en">Insert your comment</translation><translation lang="fr">Insérer un commentaire</translation><translation lang="pr">Insira o seu comentário
+</translation><translation lang="al">Legen Sie Ihren Kommentar
+</translation><translation lang="es">Inserta tu comentario
+</translation></xmldata><xmldata id="Message"><translation lang="en">Message</translation><translation lang="fr">Message</translation><translation lang="pr">Mensagem
+</translation><translation lang="al">Nachricht
+</translation><translation lang="es">Mensaje
+</translation></xmldata><xmldata id="objet"><translation lang="en">Subject</translation><translation lang="fr">Sujet</translation><translation lang="pr">Assunto
+</translation><translation lang="al">Thema
+</translation><translation lang="es">Tema
+</translation></xmldata><xmldata id="La_liste_des_commentaires"><translation lang="en">The list of comments</translation><translation lang="fr">ma liste des commentaires</translation><translation lang="pr">A lista de comentários
+</translation><translation lang="al">Die Liste der Kommentare
+</translation><translation lang="es">La lista de comentarios
+</translation></xmldata><xmldata id="Code_bare"><translation lang="en">Barcode&#13;
+</translation><translation lang="fr">Barcode</translation><translation lang="pr">Barcode
+</translation><translation lang="al">Strichcode
+</translation><translation lang="es">Código de barras
+</translation></xmldata><xmldata id="Minimum_achat_pour_appliquer_le_coupon"><translation lang="en">Minimum purchase to apply the coupon (in )</translation><translation lang="fr">Minimum d\'achat d\'appliquer le coupon</translation><translation lang="pr">Mínimo de compra para aplicar o cupom (em )
+</translation><translation lang="al">Mindestabnahmemenge, um den Coupon gelten (in Â )
+</translation><translation lang="es">La compra mínima para solicitar el cupón (en )
+</translation></xmldata><xmldata id="Changer_le_mot_de_passe"><translation lang="en">Change the password</translation><translation lang="fr">Changer le mot de passe</translation><translation lang=

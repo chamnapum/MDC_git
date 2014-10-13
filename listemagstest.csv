@@ -1,0 +1,12 @@
+Nom magasin;Adresse;Ville;Code postale;Téléphone;Catégories;Sous-cat;Region;image name
+CASINO CAFéTERIA;1 chemin Fanton;BRIANCON;5100;04 92 45 43 05;Alimentaire;Cafétéria;PROVENCE ALPES COTE D'AZUR;alimentaire.png
+FLUNCH;1 rue Jules Verne;LANGUEUX;22360;02 96 33 00 44;Alimentaire;Cafétéria;BRETAGNE;alimentaire.png
+RESTAURANT FLUNCH;1 rue Ordronneau;REZE;44400;02 40 04 11 85;Alimentaire;Cafétéria;PAYS DE LOIRE;alimentaire.png
+FLUNCH;1 rue Pertuisanes;MONTPELLIER;34000;04 67 65 13 78;Alimentaire;Cafétéria;LANGUEDOC ROUSSILLON;alimentaire.png
+CASINO CAFETERIA;100 rue Puits de la Ville;CHAURAY;79180;05 49 08 07 58;Alimentaire;Cafétéria;POITOU CHARENTES;alimentaire.png
+CASINO CAFETERIA;1100 Boulevard Burdeau;VILLEFRANCHE SUR SAONE;69400;04 74 60 36 18;Alimentaire;Cafétéria;RHONE ALPES;alimentaire.png
+FLUNCH;112 route Agde;TOULOUSE;31500;05 61 48 29 42;Alimentaire;Cafétéria;MIDI PYRENEES;alimentaire.png
+FLUNCH;1230 rue Abbaye;MONTAUBAN;82000;05 63 64 33 27;Alimentaire;Cafétéria;MIDI PYRENEES;alimentaire.png
+RESTAURANT CRESCENDO;1380 Boulevard Cretes du Revermont;BOURG EN BRESSE;1000;04 74 21 52 82;Alimentaire;Cafétéria;RHONE ALPES;alimentaire.png
+FLUNCH;14 avenue Pasteur;SEDAN;8200;03 24 29 66 65;Alimentaire;Cafétéria;CHAMPAGNE ARDENNE;alimentaire.png
+CASINO CAFETERIA;2 avenue Souvenir Francais;CARCASSONNE;11000;04 68 71 55 88;Alimentaire;Cafétéria;LANGUEDOC ROUSSILLON;alimentaire.png

@@ -1,0 +1,11 @@
+PRODUITS 
+Caméscope numérique à mémoire flash Samsung SMX-C10 | 224.40â‚¬ | Finition Crystal Gloss de rigueur pour ce camésco | samsung_smc-c10_450.jpg
+disque dur 500Go | 0.00â‚¬ | Le meilleur disque dur de la planète. Contient un | LacinemaclassicHD_3.jpg
+Cuisine entièrement équipé | 0.00â‚¬ | Des cuisines phares font place à de nouvelles cr? | cuisine1.png
+
+COUPONS 
+test coupon 1 | 5% | Lorem ipsum dolor sit amet, consectetur adipiscing
+Test coupon 3 | 10% | 
+
+EvÃ©nements 
+test 3 | 2012-01-04 | 2012-01-19 | hello test!!!

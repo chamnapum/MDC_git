@@ -1,0 +1,139 @@
+body, html {
+    margin: 0;
+    padding: 0;
+}
+#content {
+    margin: 0 auto;
+}
+/*ul {
+    height: 30px;
+    margin: 0;
+    padding: 0;
+    text-transform: uppercase;
+}*/
+#tabs ul li {
+    float: left;
+    height: 35px;
+    /*line-height: 30px;*/
+    margin: 0;
+    overflow: hidden;
+    padding: 0;
+    position: relative;
+}
+#tabs ul li a {
+    display: block;
+    /*font-family: "Trebuchet MS";
+    font-size: 14px;*/
+    padding: 0 20px;
+    text-decoration: none;
+}
+#tabs ul li a:hover {
+    color: #666666;
+}
+#tabs .ui-tabs .ui-tabs-nav li.ui-state-active {
+    color: #666666;
+    cursor: text;
+}
+#tabs .ui-tabs .ui-tabs-nav li a, #tabs .ui-tabs.ui-tabs-collapsible .ui-tabs-nav li.ui-tabs-selected a {
+    cursor: pointer;
+}
+#tabs .ui-tabs .ui-tabs-panel {
+    background: none repeat scroll 0 0 #FFFFFF;
+    clear: both;
+    display: block;
+    float: left;
+   /*<!-- font-family: "Trebuchet MS";
+    font-size: 14px;-->*/
+    margin: 0;
+    overflow: hidden;
+}
+#tabs .ui-tabs .ui-tabs-hide {
+    display: none !important;
+}
+#desc {
+    clear: both;
+    overflow: hidden;
+    width: 1000px;
+	border:1px solid red;
+}
+#tabs-2 #area1 {
+    background-color: #E9E7E7;
+    float: left;
+    min-height: 518px;
+    padding-top: 15px;
+    width: 329px;
+}
+#tabs-1 #area1 {
+    background-color: #E9E7E7;
+    float: left;
+    min-height: 518px;
+    padding-top: 15px;
+    width: 329px;
+}
+#area2 {
+    float: left;
+    overflow: hidden;
+    padding: 20px 0 5px 13px;
+    width: 366px;
+}
+#area3 {
+    margin-bottom: 10px;
+}
+#img {
+    margin: 9px;
+    width: 100%;
+}
+#infos {
+    margin: 35px 10px 10px;
+}
+#mag_infos {
+    margin: 10px;
+    padding-top: 66px;
+}
+#area1_tab2 {
+    background-color: #F4F4F4;
+    float: left;
+    margin: 3px;
+    overflow: hidden;
+    width: 899px;
+}
+#mag_desc {
+    float: left;
+    overflow: hidden;
+    width: 350px;
+}
+#loginshare {
+    width: 100%;
+}
+#loginshare li {
+    background: none repeat scroll 0 0 transparent !important;
+    border: medium none !important;
+    height: 69px !important;
+    padding: 10px !important;
+    width: 69px !important;
+}
+#loginshare li a {
+    padding: 0 !important;
+}
+#loginshare ul {
+    border: medium none !important;
+    margin-left: 170px;
+    margin-top: 100px;
+    min-height: 300px;
+}
+#tabs-3 {
+    min-height: 400px;
+}
+.facebook, .facebook .FBConnectButton .FBConnectButton_Text, .FBConnectButton_RTL .FBConnectButton_Text, .facebook .FBConnectButton, .FBConnectButton_RTL {
+    background: none repeat scroll 0 0 transparent;
+    border: medium none;
+}
+.facebook .FBConnectButton_Small .FBConnectButton_Text {
+    background: none repeat scroll 0 0 transparent;
+    margin-left: 1px;
+    padding: 0;
+}
+#tabs .ui-tabs .ui-tabs-nav li .desc .ui-tabs-selected a {
+    background: none repeat scroll 0 0 red !important;
+    position: relative;
+}

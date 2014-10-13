@@ -1,0 +1,24 @@
+
+1- CREATE COLUMN VILLE_LOWER,ID_VILLE tbl_magazins and NOM_LOWER tbl_maps_ville2
+Script : update_field.php
+
+2- Script for update COLUMN id_ville tbl_magazins (first condition)
+Script : update_ville_1.php
+
+3- Script for update COLUMN id_ville tbl_magazins (second condition)
+Script : update_ville_2.php
+
+4- Script for update COLUMN id_ville tbl_magazins (third condition)
+Script : update_ville_3.php
+
+5- Script for update COLUMN id_ville tbl_magazins (four condition)
+Script : update_ville_4.php
+
+6- Script for update COLUMN categorie tbl_magazins
+Script : update_categorie.php
+
+7- Script for update COLUMN region tbl_magazins
+Script : update_region.php
+
+8- Script for update COLUMN sous_categorie tbl_magazins
+Script : update_sous_categorie.php

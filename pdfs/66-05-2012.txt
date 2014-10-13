@@ -1,0 +1,8 @@
+PRODUITS 
+Caméscope numérique à mémoire flash Samsung SMX-C10 | 224.40â‚¬ | Finition Crystal Gloss de rigueur pour ce camésco | samsung_smc-c10_450.jpg
+
+COUPONS 
+Test coupon 2 | 20% | Lorem ipsum dolor sit amet, consectetur adipiscing
+
+EvÃ©nements 
+test 3 | 2012-01-04 | 2012-01-19 | hello test!!!

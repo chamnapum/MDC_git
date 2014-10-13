@@ -1,0 +1,35 @@
+﻿User-agent: *
+Disallow: /assets/
+Disallow: /backup 2014-08-27/
+Disallow: /backup 2014-09-01/
+Disallow: /cache/
+Disallow: /cgi-bin/
+Disallow: /class/
+Disallow: /config/
+Disallow: /cssmap-continents/
+Disallow: /cssmap-europe/
+Disallow: /cssmap-usa/
+Disallow: /database/
+Disallow: /dompdf2/
+Disallow: /geo/
+Disallow: /geolit/
+Disallow: /journal/
+Disallow: /lang/
+Disallow: /lightview/
+Disallow: /mapbrasil/
+Disallow: /mdc_fr/
+Disallow: /modules/
+Disallow: /pdfs/
+Disallow: /PHPMailer/
+Disallow: /res/
+Disallow: /scroller/
+Disallow: /social/
+Disallow: /stylesheets/
+Disallow: /supercali-1.0.7/
+Disallow: /template/
+Disallow: /twitter/
+Disallow: /Update_DB_MagasinsDuCoin/
+
+Sitemap: http://www.magasinducoin.fr/sitemap.xml
+
+

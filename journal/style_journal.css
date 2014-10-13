@@ -1,0 +1,420 @@
+ 
+body {
+    margin:0 auto;
+}
+#journal {
+    margin: 0 auto;
+    overflow: hidden;
+	   font-family: arial;
+    width: 1771px;
+}
+#journal_head {
+    background-image: url("assets/images/top.png");
+    height: 378px;
+    position: relative;
+    width: 1754px;
+}
+.journal_date {
+    color: white;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 18pt;
+    font-weight: bold;
+    left: 100px;
+    position: absolute;
+    top: 340px;
+}
+.journal_lien {
+    color: white;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 14pt;
+    font-weight: bold;
+    position: absolute;
+    right: 100px;
+    top: 342px;
+}
+.area_prod {
+    float: left;
+    margin-right: 12px;
+    overflow: hidden;
+    padding-left: 60px;
+    width: 855px;
+}
+.journal_pub {
+    background-color: #999999;
+    float: left;
+    height: 800px;
+    overflow: hidden;
+    width: 816px;
+	margin-top:42px;
+}
+#corps {
+    width: 1767px;
+}
+.titre_prod {
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 44pt;
+    font-weight: bold;
+}
+.desc_prod {
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 20pt;
+}
+.prod1 {
+    float: left;
+    height: 381px;
+    margin: 17px 20px;
+    width: 350px;
+}
+.img_prod {
+    float: left;
+    width: 100%;
+}
+.prod {
+    border: 2px solid black;
+    border-radius: 50px 50px 50px 50px;
+    float: left;
+    margin: 34px 0;
+    min-height: 600px;
+    overflow: hidden;
+    padding: 0 20px;
+    width: 488px;
+}
+.area_prod_3 {
+    float: left;
+    width: 100%;
+}
+.first {
+    border-color: #7A1B57 !important;
+    margin-left: 29px;
+    margin-right: 40px;
+}
+.middle {
+    border-color: #F7B540 !important;
+}
+.last {
+    margin-left: 40px;
+    margin-right: 29px;
+}
+.area_code_barre {
+    float: left;
+}
+.code_barre_left {
+/*    background-image: url("assets/images/coupon_seul1.png");
+*/    float: left;
+    min-height: 522px;
+    width: 730px;
+	position:relative;
+	padding:10px 85px 46px 58px;
+	overflow:hidden;
+		border:4px dashed black;
+		background-color:#e9d6e1;
+
+}
+.code_barre_right {
+/*    background-image: url("assets/images/coupon_seul2.png");
+*/    float: left;
+    min-height: 522px;
+    width: 730px;
+	position:relative;
+	padding:10px 85px 46px 58px;
+	overflow:hidden;
+	border:4px dashed black;
+	background-color:#feedd3;
+	border-left:none;
+
+}
+.ciseau{
+	background-image:url(images/ciseau.png);
+	background-repeat:no-repeat;
+}
+.suite {
+    background-image: url("assets/images/fleche_mauve.png");
+    background-position: -2px 50%;
+    background-repeat: no-repeat;
+    color: #7A1B57;
+    font-family: arial;
+    font-size: 22pt;
+    font-weight: bold;
+    padding-left: 50px;
+    width: 300px;
+}
+.prod .titre {
+    color: #F7B540;
+    font-family: arial;
+    font-size: 62px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.prod .prod_desc {
+    background-image: url("assets/images/flech_blanche.jpg");
+    background-position: -2px -9px;
+    background-repeat: no-repeat;
+    font-family: arial;
+    font-size: 27px;
+    padding-left: 61px;
+    text-align: left;
+}
+.prod .prod_adr {
+    background-image: url("assets/images/fnac.jpg");
+    background-repeat: no-repeat;
+    font-family: arial;
+    font-size: 25px;
+    margin-top: 14px;
+    min-height: 89px;
+    overflow: hidden;
+    padding-left: 141px;
+    padding-top: 54px;
+    text-align: left;
+}
+.prod .prod_img {
+    min-height: 310px;
+    margin-bottom: 20px;
+    overflow: hidden;
+    width: 100%;
+}
+.prod .prod_price {
+    color: #7A1B57;
+    font-family: arial;
+    font-size: 44px;
+    text-align: center;
+}
+.prod .prod_disponibilte {
+    color: #7A1B57;
+    font-family: arial;
+    font-size: 32px;
+    text-align: center;
+}
+.entete_code_barre{
+	color:#999999;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:30px;
+}
+.coupon_desc{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:20px;
+}
+.c_i_logo{
+	background-color:red;
+	overflow:hidden;
+    width: 280px;	float:left;
+}
+.c_i_reduc{
+	overflow:hidden;
+    width: 440px;
+		float:left;
+			text-align:center;
+
+}
+.coupon_infos{
+	float:left;
+ margin-bottom: 13px;
+    margin-top: 62px;}
+.pourcentage{
+	color:#f49c00;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:158px;
+	text-align:center;
+}
+.valablechez{
+	color:#999999;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:30px;
+}	
+.nomdumagasin{
+	color:#9c246f;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:30px;
+	font-weight:bold;
+}	
+.logomagasin{
+	background-image:url(images/logomagasin.png);
+	position:absolute;
+	top:5px;
+	right:5px;
+	width:255px;
+	height:101px;
+
+}
+.page2 , .page3{
+	position:relative;
+	min-height:500px;
+}
+.page1 , .page2 , .page3{
+	margin:36px auto;
+	width:1757px;
+	float:left;
+	border:1px solid black;
+	}
+ 
+
+.page3 .dans_votre_magasin{
+	color:#fff;
+	font-size:35px;
+	padding-left:80px;
+}
+.page3 .desc_de_event{
+	color:#fff;
+	font-size:38px;
+	padding-left:80px;
+	margin-top:10px;
+	font-weight:bold;
+}
+.page3 .date_event{
+	color:#fff;
+	font-size:27px;
+	padding-left:80px;
+	font-weight:bold;
+}
+.page3 .adr_event{
+	color:#fff;
+	font-size:27px;
+	padding-left:80px;
+	font-weight:bold;
+}
+.page3 .txt_event{
+	color:#fff;
+	font-size:20px;
+	padding-left:80px;
+	font-weight:bold;
+}
+
+.page3 .titr_event{
+	color:#f49c00;
+	font-size:80px;
+	padding-left:80px;
+	font-weight:bold;
+}
+.area_event{
+	width:817px;
+	height:371px;
+	background-image:url(images/event.png);
+	  margin-top: 20px;
+	   position: relative;
+}
+.journal_footer{
+	height:70px;
+	width:1754px;
+	background-image:url(images/footer.png);
+	float:left;
+	margin-top:20px;
+}
+.page3 .page3_division .div1{
+	width :50%;
+	float:left;
+}
+.page3 .page3_division .div2{
+	overflow:hidden;
+	float:left;
+}
+
+.page3_pub{
+    height: 900px;
+    margin: 200px auto auto;
+    width: 800px;
+}
+.page3 .p3{
+    background-color: #F49C00;
+    height: 76px;
+    left: 0;
+    position: absolute;
+    top: 1300px;
+    width: 213px;
+	color:black;
+	font-size:50px;
+	font-weight:bold;
+	text-align:center;}
+.page3 .area_code_barre{
+	margin-top:50px;
+}
+.page3 .titre_sommaire{
+	color:#5d1141;
+	font-weight:bold;
+	padding-left: 50px;
+}
+
+
+
+.txt_pub{
+	 width:97%;
+	 height:500px;
+	 margin:0 auto;
+	 color:black;
+	 font-size:25px;
+	 font-family:arial;
+
+}
+.bande_pub {
+    height: 1500px;
+    margin: 312px auto 0;
+    width: 97%;
+	text-align:center;
+}
+.page2_pub{
+	width:774px;
+	float:left;
+}
+.titre_sommaire{
+	 color: #FFFFFF;
+    font-family: arial;
+    font-size: 119px;
+    font-style: italic;
+    font-weight: bold;
+    margin-top: 216px;
+    padding-left: 5px;
+	
+	
+}
+.page2_sommaire{
+	width:983px;
+	float:left;
+	overflow:hidden;
+	min-height:2422px;
+	background-image:url(images/sommaire.png);
+
+}
+.sommaire{
+	color:#fff;
+	font-family:arial;
+	font-size:23px;
+	padding-left:40px;
+	font-weight:bold;
+	background-image:url(images/fleche.png);
+    background-position: 0 5px;
+		background-repeat:no-repeat;
+	
+}
+.sommaire_pub{
+    bottom: 60px;
+    height: 727px;
+    margin-left: 59px;
+    position: absolute;
+    width: 864px;
+}
+
+.sommaire .cat{
+	font-size:23px;
+	padding-left:10px;
+	font-weight:bold;
+	
+}
+.sommaire .som{
+	font-size:23px;
+	padding-left:50px;
+	font-weight:bold;
+	
+}
+.top_interieur{
+	background-image:url(images/top_interieur.png);
+	position:absolute;
+	top:60px;
+	width:1754px;
+	height:200px;
+}
+ .logo_event{
+    height: 120px;
+    position: absolute;
+    right: 40px;
+    top: 30px;
+    width: 120px;
+ }

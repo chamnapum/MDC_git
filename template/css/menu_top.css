@@ -1,0 +1,104 @@
+#top_menu{
+	/*border-bottom:5px solid #CBCBCB;*/ 
+	width:1000px; 
+	height:38px;
+	position:absolute;
+	background-color: #cbcbcb;
+}
+#top_menu a{
+	font-size:15px;
+	font-weight:bold;
+	padding:11px 15px;
+	float:left;
+	color:#372f2b;
+	/*border-left: 1px solid #F2EFEF;
+	border-right: 1px solid #F2EFEF;*/
+}
+#top_menu a:hover, .menu_current{
+	background:#f2efef;
+	color:#372f2b;
+	/*border-left: 1px solid #B35A91;
+	border-right: 1px solid #9D216E;*/
+}
+#top_menu a:first-child{
+	border-left:none;
+}
+#top_menu a:last-child{
+	border-right:none;
+}
+
+#sub_menu{
+	background:#f2efef;
+	width:1000px;
+	height:37px;
+	display: none;
+	position: absolute;
+	cursor: default;
+	z-index: 500;
+	margin-top:38px;
+	margin-top:50px\9;
+	margin-left:-2px\9;
+}
+#sub_menu .m1, #sub_menu .m2, #sub_menu .m3, #sub_menu .m4 {
+	display: block;
+	float: left;
+}
+#sub_menu .m1 a, #sub_menu .m2 a, #sub_menu .m3 a, #sub_menu .m4 a{
+	position: relative;
+	display: block;
+	z-index: 510;
+	height: 37px;
+	line-height: 37px;
+	padding: 0 15px;
+	
+	font-family: Helvetica, Arial, sans-serif;
+	/*font-weight: bold;*/
+	font-size: 15px;
+	color: #372f2b;
+
+	background: #f2efef;
+
+	-webkit-transition: all .3s ease;
+	-moz-transition: all .3s ease;
+	-o-transition: all .3s ease;
+	-ms-transition: all .3s ease;
+	transition: all .3s ease;
+	float: left;
+}
+#sub_menu .m1 a:hover, #sub_menu .m2 a:hover, #sub_menu .m3 a:hover, #sub_menu .m4 a:hover{
+	/*background: #9D216E;
+	font-weight: bold;*/
+	text-decoration:underline;
+}
+
+/************************* Home Silder 3 thing "coupon event and product" *****************************/
+
+#slideshow1, #slideshow2, #slideshow3, #slideshow4 {
+	position: relative;
+	width: 100%;
+}
+#slideshow1 > div ,#slideshow2 > div ,#slideshow3 > div ,#slideshow4 > div{
+	position: absolute;
+}
+
+.slideHometop{
+	background:url(../../assets/images/bgSilder.png) repeat-x; 
+	width:100%;
+	height:162px;
+	height:165px\9; 
+	float:left;
+}
+	@media screen and (-webkit-min-device-pixel-ratio:0) {
+		.slideHometop{
+			background:url(../../assets/images/bgSilder.png) repeat-x; 
+			width:100%;
+			height:164px; 
+			float:left;
+		}
+	}	
+	
+	
+	
+	
+	
+	

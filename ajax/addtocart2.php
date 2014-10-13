@@ -1,0 +1,1 @@
+<?php echo "Coupon &agrave; &eacute;t&eacute; ajout&eacute; avec succ&egrave;s!"; ?>

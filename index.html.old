@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <link rel="stylesheet" href="style.css" />
+        <title>Magasinducoin</title>
+    </head>
+ 
+    <body>
+        <br><br><br><br><br><br><br><br><br><br><br><br>	
+		<h1>Bienvenue sur Magasinducoin.fr</h1>
+        <p><img src="logomdc.png" class="imageflottante" alt="Image flottante" /></p> 
+        <p class="intro">Le site est en construction, l'ouverture est prévue pour Septembre 2014 !<br />
+		Vous pouvez nous contacter en cliquant <a href="mailto:contact@magasinducoin.com">ici</p>
+        
+	
+	</body>
+</html>
